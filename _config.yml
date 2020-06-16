@@ -1,14 +1,6 @@
 theme: minima
-title: "Situated Language and Perception Research Group"
+title: "RESOURCEFUL"
 author: " "
 description: " "
 header_pages:
   - path: index.md
-  - path: meetings.md
-  - path: courses.md
-    sub_pages:
-      - courses/rom/rom.md
-      - courses/apl/apl.md
-  - path: events.md
-    sub_pages:
-      - events/resourceful/resourceful.md
