@@ -1,1 +1,1 @@
-# resourceful-2020
+# resourceful-2020 workshop
