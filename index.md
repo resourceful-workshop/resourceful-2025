@@ -1,6 +1,72 @@
 ---
-layout: home
-title: About
+layout: default
+title: RESOURCEFUL 2020
 ---
+{% if jekyll.environment  == "production" %}
+        {% assign basepath = "/resources-2020" %}
+        {%else%}
+        {% assign basepath = "" %}
+        {% endif %}
 
-Some text.
+# RESOURCEs and representations For Under-resourced Languages and domains 
+<div class="update">
+        Update: <a> Due to the spread of Covid19 and the uncertainty and threat it generates, the workshop will be held virtually. </a>
+</div> 
+
+
+## Workshop Summary
+All areas of natural language processing have achieved visible breakthroughs from the use of data-driven models. Contemporary machine learning is significantly influenced by techniques that rely on large datasets that demand substantial computational resources to solve practical problems in a tangible way (e.g. models based on transformers such as BERT, VilBERT, ALBERT, and GPT-2 that are pre-trained in on large corpus of unlabeled data). 
+
+However, many of the world languages lack the availability of linguistic description as well as of sufficiently large computer-readable corpora of linguistic material. Even those languages that are considered well-resourced have some domains where resources are scarce, for example corpora of dialogue and situated interaction. Another common feature that these domains share with under-resourced language is that since they focus on spoken or spoken-like interaction (either in a written or an audio form) they also show high variability in the input data. As a result, applying state-of-the-art deep-neural-network based methods for the development of data-driven systems in such resource-constrained environments is a non-trivial task.
+
+## Call for Papers
+For this workshop, we encourage contributions in the area of resource creation and representation learning in limited or low-resource environments that are tackling the above mentioned problems. In particular we would like to open a forum by bringing together students, researchers, and experts to address and discuss the following questions:
+
+- How can new resources be constructed or extended for languages and domains that lack standardised representations of linguistic units?
+- What experience from building resources for languages that have a good coverage today (for example Scandinavian languages) can be ported to building resources for under-resources languages and domains?
+- How to deal with the variability of data and its standardisation in machine learning approaches?
+- What algorithms and methods can we employ to transfer learning from related domains/languages that have good coverage?
+- What is the role of multi-task learning in this domain?
+- What representations can be learned and how effective are they in different low-resource scenarios?
+- How can newly created resources and learned representations be evaluated?
+- What ethical considerations are involved?
+
+## Submission Policy
+We invite submissions in the form of 2-page extended abstract with the possibility of including additional pages allowed for references. Papers related to our theme and already presented at other venues or have already been published elsewhere as of 2019 will also be accepted for presentation.
+
+## Important Dates 
+- Submissions deadline: October 5, 2020.
+- Notification: October 25,2020.
+- Camera ready: November 5, 2020.
+- Workshop: Wednesday, November 25, 2020.
+
+
+## List of Organizers
+
+<div>
+    <div class="iblock headshotbox "> 
+        <img src="{{basepath}}/images/organizers/tewodros.jpg" class="headshot">
+        <div class="headshotname"> Tewodros Gebreselassie </div>
+            <a href="https://clasp.gu.se/about/people/tewodros-gebreselassie" class="headshotaffiliation"> GU</a>
+    </div>
+
+    <div class="iblock headshotbox "> 
+        <img src="{{basepath}}/images/organizers/Simon.jpeg" class="headshot">
+        <div class="headshotname"> Simon Dobnik </div>
+        <a href="http://www.dobnik.net/simon/" class="headshotaffiliation"> GU </a> 
+    </div>
+    
+    <div class="iblock headshotbox "> 
+        <img src="{{basepath}}/images/organizers/BarbaraPlank.jpeg" class="headshot">
+        <div class="headshotname"> Barbara Plank </div>
+         <a href="https://bplank.github.io/" class="headshotaffiliation"> IT University Copenhagen </a>
+    </div>
+
+     <div class="iblock headshotbox ">  
+        <img src="{{basepath}}/images/organizers/LarsBorin.jpg" class="headshot">
+        <div class="headshotname">Lars Borin </div>
+        <a href="https://www.gu.se/english/about_the_university/staff/?updateKey=1579399031586&selectedTab=2&userName=Lars+Borin&userId=xborla&languageId=100001&siteNodeId=587114&contentId=-1&originalRequestURI=/english/about_the_university/staff/&publicationsPerPage=50&contentToRename=" class="headshotaffiliation"> GU </a> 
+    </div> 
+</div>
+
+

@@ -1,6 +1,11 @@
-theme: minima
-title: "RESOURCEFUL"
-author: " "
-description: " "
-header_pages:
-  - path: index.md
+theme: jekyll-theme-leap-day
+theme: jekyll-theme-cayman
+description: ""
+basepath: "resources-2020/"
+
+navigation:
+- text: HOME
+  url: /index.html
+- text: SCHEDULE
+  url: /schedule.html
+
