@@ -3,7 +3,7 @@ layout: default
 title: RESOURCEFUL 2020
 ---
 {% if jekyll.environment  == "production" %}
-        {% assign basepath = "/resources-2020" %}
+        {% assign basepath = "" %}
         {%else%}
         {% assign basepath = "" %}
         {% endif %}
