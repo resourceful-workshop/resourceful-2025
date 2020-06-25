@@ -63,9 +63,9 @@ We invite submissions in the form of 2-page extended abstract with the possibili
     </div>
 
      <div class="iblock headshotbox ">  
-        <img src="{{basepath}}/images/organizers/LarsBorin.jpg" class="headshot">
+        <img src="{{basepath}}/images/organizers/lars-borin.jpg" class="headshot">
         <div class="headshotname">Lars Borin </div>
-        <a href="https://www.gu.se/english/about_the_university/staff/?updateKey=1579399031586&selectedTab=2&userName=Lars+Borin&userId=xborla&languageId=100001&siteNodeId=587114&contentId=-1&originalRequestURI=/english/about_the_university/staff/&publicationsPerPage=50&contentToRename=" class="headshotaffiliation"> GU </a> 
+        <a href="https://spraakbanken.gu.se/en/about/staff/lars" class="headshotaffiliation"> GU </a> 
     </div> 
 </div>
 
