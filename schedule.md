@@ -8,9 +8,13 @@ title: RESOURCEFUL 2020
         {% assign basepath = "" %}
         {% endif %}
 
-# RESOURCEs and representations For Under-resourced Languages and domains 
+# Workshop on RESOURCEs and representations For Under-resourced Languages and domains
 
-### Duration of the Workshop
+## Schedule
+
+The workshop will be a half-day event in the morning of 25th November 2020.
+
+<!---
 
 Tentative Schedule
 
@@ -30,5 +34,6 @@ The tentative schedule is as follows:
     
 The programme will be adjusted based on the number of submissions.
 
+--->
 
 
