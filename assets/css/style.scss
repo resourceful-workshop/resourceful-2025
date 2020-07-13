@@ -47,15 +47,17 @@ body{
     font-size: 2.5em;
     font-weight: bold; 
     // border-bottom: 1px solid #251E20; 
-    color: white;
 }
 @media (max-width: 800px) {
     .maintopic { font-size: 1.8em; } 
 }
 .subtopic{
     padding: 20px 0px 0px 0px;
-    font-size: 1.3em;
+    //font-size: 1.3em;
+    font-size: 2.5em;
     text-shadow: 1px 1px #50505015;
+    font-weight: bold; 
+    color: white;
 }
 .border{
     border: 2px solid black;
