@@ -5,7 +5,7 @@ basepath: "resourceful-2020/"
 
 navigation:
 - text: Home
-  url: index.html
+  url: /index.html
 - text: Schedule
-  url: schedule.html
+  url: /schedule.html
 
