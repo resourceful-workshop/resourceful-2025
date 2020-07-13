@@ -3,7 +3,7 @@
 
     <head>
         {% if jekyll.environment  == "production" %}
-        {% assign basepath = "/resources-2020" %}
+        {% assign basepath = "/resourceful-2020" %}
         {%else%}
         {% assign basepath = "" %}
         {% endif %}
@@ -33,7 +33,7 @@
             <header class="headercontent centermiddle " role="banner">
 
                 <div class="subtopic">
-                    {{ page.description | default: site.description | default: site.github.project_tagline }}
+                    <!--- {{ page.description | default: site.description | default: site.github.project_tagline }} --->
                 </div>
                 <div class="maintopic">
                     {{ page.title | default: site.title | default: site.github.repository_name }}
@@ -70,13 +70,14 @@
 
             <footer class="site-footer">
                 {% if site.github.is_project_page %}
-                <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">RESOURCEFUL 2020 GU</a> is
+                <!--- <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">RESOURCEFUL 2020 GU</a> is
                     maintained by the RESOURCEFUL 2020 GU Workshop 
-                    <a href="{{ site.github.owner_url }}"> Organizers</a>.</span>
+                    <a href="{{ site.github.owner_url }}"> Organizers</a>.</span> --->
                 {% endif %}
-                <span class="site-footer-credits">This page is hosted on Github using <a
+                <!--- <span class="site-footer-credits">This page is hosted on Github using <a
                         href="https://pages.github.com">GitHub
-                        Pages</a>.</span>
+                        Pages</a>.</span> --->
+		<span class="site-footer-credits">Image of Gothenburg by <a href="//commons.wikimedia.org/wiki/User:Urdulife" title="User:Urdulife">Amjad Sheikh</a> - <span class="int-own-work" lang="sv">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=57230687">link</a>.</span>
             </footer>
         </main>
     </body>

@@ -1,11 +1,11 @@
 theme: jekyll-theme-leap-day
 theme: jekyll-theme-cayman
-description: ""
+description: "RESOURCEs and representations For Under-resourced Languages and domains"
 basepath: "resourceful-2020/"
 
 navigation:
-- text: HOME
-  url: /index.html
-- text: SCHEDULE
-  url: /schedule.html
+- text: Home
+  url: index.html
+- text: Schedule
+  url: schedule.html
 
