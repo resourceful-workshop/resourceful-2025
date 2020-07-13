@@ -8,8 +8,6 @@ title: RESOURCEFUL-2020
         {% assign basepath = "" %}
         {% endif %}
 
-# Workshop on RESOURCEs and representations For Under-resourced Languages and domains
-
 collocated with the [Eighth Swedish Language Technology Conference (SLTC)](https://spraakbanken.gu.se/en/sltc2020), University of Gothenburg, Sweden
 
 25th November 2020
