@@ -42,7 +42,7 @@ Intended participants are researchers, PhD students and practitioners from diver
 
 ## Submission
 
-We invite submissions of 2-page extended non-anonymous abstracts with any number of pages for references using the [ACL/EMNLP template](https://2020.emnlp.org/files/emnlp2020-templates.zip). Papers related to our theme and already presented at other venues or have already been published elsewhere will be considered for acceptance for presentation as well. The abstracts will be peer-reviewed by a programme committee and the accepted ones will be posted on the website, unless authors wish not to do so. There will be no workshop proceedings but post-proceedings may be organised depending on the interest of authors.
+We invite submissions of 2-page extended non-anonymous abstracts with any number of pages for references using the [ACL/EMNLP template](https://2020.emnlp.org/files/emnlp2020-templates.zip). Papers related to our theme and already presented at other venues or have already been published elsewhere will be considered for acceptance for presentation as well. The abstracts will be reviewed by the workshop organisers and the accepted ones will be posted on the website, unless authors wish not to do so. There will be no workshop proceedings but post-proceedings may be organised depending on the interest of authors.
 
 Extended abstracts should be submitted in the pdf format at [https://easychair.org/conferences/?conf=resourceful2020](https://easychair.org/conferences/?conf=resourceful2020)
 
