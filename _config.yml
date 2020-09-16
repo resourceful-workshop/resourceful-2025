@@ -8,4 +8,6 @@ navigation:
   url: /index.html
 - text: Schedule
   url: /schedule.html
+- text: Schedule
+  url: /invited_speakers.html
 
