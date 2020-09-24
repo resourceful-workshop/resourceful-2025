@@ -7,8 +7,8 @@ title: RESOURCEFUL-2020
         {%else%}
         {% assign basepath = "" %}
         {% endif %}
-        
-        
+
+
 ## News
 
 ### View our Invited Speakers page to see the current list of confirmed speakers
@@ -22,12 +22,12 @@ The workshop will be held online.
 
 <div class="update">
         Update: <a>Submission of extended abstracts: 29th September 2020</a>
-</div> 
+</div>
 
 
 ## Workshop description
 
-All areas of natural language processing have achieved visible breakthroughs from the use of data-driven models. Contemporary machine learning is significantly influenced by techniques that rely on large datasets that demand substantial computational resources to solve practical problems in a tangible way (e.g. models based on transformers such as BERT, VilBERT, ALBERT, and GPT-2 that are pre-trained on large corpora of unlabelled data). 
+All areas of natural language processing have achieved visible breakthroughs from the use of data-driven models. Contemporary machine learning is significantly influenced by techniques that rely on large datasets that demand substantial computational resources to solve practical problems in a tangible way (e.g. models based on transformers such as BERT, VilBERT, ALBERT, and GPT-2 that are pre-trained on large corpora of unlabelled data).
 
 However, many of the world’s languages lack the availability of linguistic description as well as of sufficiently large computer-readable corpora of linguistic material. Even those languages that are considered well-resourced have some domains where resources are scarce, for example corpora of dialogue and situated interaction. Another similarity of these domains with under-resourced languages is that since they focus on spoken or spoken-like interaction (either in a written or an audio form) they show a high variability of input data. Applying state-of-the-art deep-neural-network-based methods for the development of data-driven systems in such resource-constrained environments is a non-trivial task.
 
@@ -65,29 +65,32 @@ All times are 11:59PM UTC-12:00 ("anywhere on Earth").
 ## Organizers
 
 <div>
-    <div class="iblock headshotbox "> 
+    <div class="iblock headshotbox ">
         <img src="{{basepath}}/images/organizers/tewodros.jpg" class="headshot">
-        <div class="headshotname"> Tewodros Gebreselassie </div>
-            <a href="https://clasp.gu.se/about/people/tewodros-gebreselassie" class="headshotaffiliation"> GU</a>
+                  <a href="https://www.linkedin.com/in/tewodros-abebe-gebreselassie-a7739772/" class="headshotaffiliation"> Tewodros Gebreselassie </a>
+        <div class="headshotname">  University of Gothenburg</div>
+
     </div>
 
-    <div class="iblock headshotbox "> 
+    <div class="iblock headshotbox ">
         <img src="{{basepath}}/images/organizers/Simon.jpeg" class="headshot">
-        <div class="headshotname"> Simon Dobnik </div>
-        <a href="http://www.dobnik.net/simon/" class="headshotaffiliation"> GU </a> 
+        <a href="http://www.dobnik.net/simon/" class="headshotaffiliation"> Simon Dobnik </a>         
+        <div class="headshotname"> University of Gothenburg </div>
     </div>
-    
-    <div class="iblock headshotbox "> 
+
+    <div class="iblock headshotbox ">
         <img src="{{basepath}}/images/organizers/BarbaraPlank.jpeg" class="headshot">
-        <div class="headshotname"> Barbara Plank </div>
-         <a href="https://bplank.github.io/" class="headshotaffiliation"> IT University Copenhagen </a>
+        <a href="https://bplank.github.io/" class="headshotaffiliation"> Barbara Plank </a>
+
+        <div class="headshotname"> IT University Copenhagen  </div>
     </div>
 
      <div class="iblock headshotbox ">  
         <img src="{{basepath}}/images/organizers/LarsBorin.jpg" class="headshot">
-        <div class="headshotname">Lars Borin </div>
-        <a href="https://spraakbanken.gu.se/en/about/staff/lars" class="headshotaffiliation"> GU </a> 
-    </div> 
+        <a href="https://spraakbanken.gu.se/en/about/staff/lars" class="headshotaffiliation"> Lars Borin </a>
+
+        <div class="headshotname">University of Gothenburg  </div>
+    </div>
 </div>
 
 Contact: [resourceful2020@easychair.org](mailto:resourceful2020@easychair.org)
