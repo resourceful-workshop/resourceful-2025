@@ -21,7 +21,7 @@ The workshop will be held online.
 
 
 <div class="update">
-        Update: <a>Submission of extended abstracts: 29th September 2020</a>
+        Update: <a>Submission of extended abstracts: 13th October 2020</a>
 </div>
 
 
@@ -54,7 +54,7 @@ Extended abstracts should be submitted in the pdf format at [https://easychair.o
 
 ## Important dates
 
- - Submission of extended abstracts: 29th September 2020
+ - Submission of extended abstracts: 13th October 2020
  - Notification of acceptance: 23rd October 2020
  - Final version: 10th November 2020
  - Workshop date: 25th November 2020
