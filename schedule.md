@@ -12,26 +12,23 @@ title: RESOURCEFUL 2020
 
 The workshop will be a half-day event in the morning of 25th November 2020.
 
-<!---
+It will be held online. Please [register](https://sunet.artologik.net/gu/SLTC2020-registration) to get the Zoom link.
 
-Tentative Schedule
-
-The workshop will be a half-day event from 9:00 am - 12:00 noon.
-Each presentation will be 15 minutes followed by 5 minutes for Q/A. There will be a panel discussion for 30 minutes on the overall problems and solutions in the area. 
-The tentative schedule is as follows:
-
-    • 09:00 - 09:10 Welcome remarks
-    • 09:10 - 09:40 Invited talk 1
-    • 09:40 - 10:00 Paper 1
-    • 10:00 - 10:20 Coffee break
-    • 10:20 - 10:40 Paper 2
-    • 10:40 - 11:00 Paper 3
-    • 11:00 - 11:20 Paper 4
-    • 11:20 - 11:30 Break
-    • 11:30 - 12:00 Panel discussion and concluding remarks
-    
-The programme will be adjusted based on the number of submissions.
-
---->
-
-
+  - 8:50 - 9:00: Welcome
+  - 9:00 - 9:30: Keynote: Wondwossen Mulugeta, Addis Ababa University
+  - 9:00 - 9:15: Break
+  - 9:15 - 10:00: Presentations
+	* Jemal Abate and Ashenafi Tulu: Development of query-based document summarization for Afaan Oromoo [abstract]({{basepath}}/papers/RESOURCEFUL-2020_paper_1.pdf)
+	* Girma Neshir Alemneh, Solomon Atnafu and Andreas Rauber: BERT fine-tuning for Amharic sentiment classification [abstract]({{basepath}}/papers/RESOURCEFUL-2020_paper_3.pdf)
+	* Abir Messaoudi, Hatem Haddad and Chayma Fourati: Sentiment analysis in Tunisian social media using deep learning [abstract]({{basepath}}/papers/RESOURCEFUL-2020_paper_6.pdf)
+  - 10:00 - 10:30: Coffee break
+  - 10:30 - 11:00: Keynote: Gabriel Skantze, KTH
+  - 11:00 - 11:15: Break
+  - 11:15 - 12:15: Presentations
+	* Thomas Vakili: A method for the assisted translation of QA datasets using multilingual sentence embeddings [abstract]({{basepath}}/papers/RESOURCEFUL-2020_paper_4.pdf)
+	* Ivan Ubaleht: The creation of Siberian Ingrian Finnish and Siberian Tatar speech corpora [abstract]({{basepath}}/papers/RESOURCEFUL-2020_paper_5.pdf)
+	* Anouck Braggaar and Rob van der Goot: Creating a universal dependencies treebank of spoken Frisian-Dutch code-switched data
+	* Rob van der Goot, Marija Stepanovic, Alan Ramponi, Ibrahim Sharaf, Ahmet Üstün, Aizhan Imankulova, Siti Oryza Khairunnisa, Mamoru Komachi and Barbara Plank: Cross-lingual multi-task transfer for zero-shot task-oriented dialog
+  - 12:15 - 12:30 break
+  - 12:30 - 13:00: Keynote: Judith Gaspers, Amazon
+  - 13:00 - 13:10: Concluding remarks

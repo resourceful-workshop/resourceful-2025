@@ -21,8 +21,15 @@ The workshop will be held online.
 
 
 <div class="update">
-        Update: <a>Submission of extended abstracts: 13th October 2020</a>
+Please [register for SLTC-2020](https://sunet.artologik.net/gu/SLTC2020-registration) if you are planning to attend this workshop. Registration is free.
+
+[Accepted extended abstracts and schedule]({{basepath}}/schedule.html)
 </div>
+
+
+<!---
+        Update: <a>Submission of extended abstracts: 13th October 2020</a>
+-->
 
 
 ## Workshop description
@@ -54,12 +61,12 @@ Extended abstracts should be submitted in the pdf format at [https://easychair.o
 
 ## Important dates
 
- - Submission of extended abstracts: 13th October 2020
- - Notification of acceptance: 23rd October 2020
- - Final version: 10th November 2020
+ - ~~Submission of extended abstracts: 13th October 2020~~
+ - ~~Notification of acceptance: 23rd October 2020~~
+ - ~~Final version: 10th November 2020~~
  - Workshop date: 25th November 2020
 
-All times are 11:59PM UTC-12:00 ("anywhere on Earth").
+All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").
 
 
 ## Organizers
