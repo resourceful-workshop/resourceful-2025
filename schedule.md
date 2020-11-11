@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RESOURCEFUL 2020
+title: RESOURCEFUL-2020
 ---
 {% if jekyll.environment  == "production" %}
         {% assign basepath = "/resourceful-2020" %}
@@ -29,6 +29,6 @@ It will be held online. Please [register](https://sunet.artologik.net/gu/SLTC202
 	* Ivan Ubaleht: The creation of Siberian Ingrian Finnish and Siberian Tatar speech corpora [abstract]({{basepath}}/papers/RESOURCEFUL-2020_paper_5.pdf)
 	* Anouck Braggaar and Rob van der Goot: Creating a universal dependencies treebank of spoken Frisian-Dutch code-switched data
 	* Rob van der Goot, Marija Stepanovic, Alan Ramponi, Ibrahim Sharaf, Ahmet Üstün, Aizhan Imankulova, Siti Oryza Khairunnisa, Mamoru Komachi and Barbara Plank: Cross-lingual multi-task transfer for zero-shot task-oriented dialog
-  - 12:15 - 12:30 break
+  - 12:15 - 12:30 Break
   - 12:30 - 13:00: Keynote: Judith Gaspers, Amazon
   - 13:00 - 13:10: Concluding remarks

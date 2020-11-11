@@ -21,9 +21,8 @@ The workshop will be held online.
 
 
 <div class="update">
-Please [register for SLTC-2020](https://sunet.artologik.net/gu/SLTC2020-registration) if you are planning to attend this workshop. Registration is free.
-
-[Accepted extended abstracts and schedule]({{basepath}}/schedule.html)
+Please <a href="https://sunet.artologik.net/gu/SLTC2020-registration" target="_none">register for SLTC-2020</a> if you are intending to attend this workshop. Registration is free. <br>
+<a href="{{basepath}}/schedule.html">Accepted extended abstracts and schedule</a>
 </div>
 
 
