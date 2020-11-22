@@ -48,7 +48,8 @@ Machine Learning approaches, mainly supervised methods, depends on the quality o
 When developing conversational systems, dialog data is typically needed. However, it is often challenging to collect enough data which are also representative of the conversational domain that is being modelled.  In this talk, I will discuss different alternatives for collecting such data, and the problems that these different methods are associated with. I will include examples where we have collected data for human-robot interaction in public settings, as well as large scale data collections using crowdsourcing. 
 
 
-**Judith Gaspers: Spoken Language Understanding in Low-Resource Scenarios**
+
+**Judith Gaspers: Spoken language understanding in low-resource scenarios**
  
 In this talk, I will present work towards two low-resource scenarios in industry spoken language understanding (SLU). The first scenario is concerned with bootstrapping an SLU model for a new language with limited target language data. I will show how transfer learning (with source data selection) from multiple source languages can be applied for this use case with the goal of decreasing target language data requirements and computational costs. The second scenario concerns features with limited data in an otherwise high-resource language, thus leading to data imbalance. Aiming to boost performance of low-frequency features without over-fitting, I will present a model in which methods for handling data balancing are leveraged indirectly via an auxiliary task which makes use of a class-balanced batch generator and (possibly) synthetic data.
 
