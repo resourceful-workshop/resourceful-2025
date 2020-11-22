@@ -17,7 +17,7 @@ title: RESOURCEFUL-2020
         <img src="{{basepath}}/images/organizers/wondwossen.jpeg" class="headshot">
         <a href="https://www.linkedin.com/in/wondisho/?originalSubdomain=et" class="headshotaffiliation"> Wondwossen Mulugeta </a>
         <div class="headshotname"> Addis Ababa University </div>
-    </div>
+   </div>
 
     <div class="iblock headshotbox ">
         <img src="{{basepath}}/images/organizers/Gabriel.jpg" class="headshot">
