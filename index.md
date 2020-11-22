@@ -75,7 +75,7 @@ All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").
 
     <div class="iblock headshotbox ">
         <img src="{{basepath}}/images/organizers/Simon.jpeg" class="headshot">
-        <a href="http://www.dobnik.net/simon/" class="headshotaffiliation"> Simon Dobnik </a>         
+        <a href="https://www.gu.se/en/about/find-staff/simondobnik" class="headshotaffiliation"> Simon Dobnik </a>         
         <div class="headshotname"> University of Gothenburg </div>
     </div>
 
