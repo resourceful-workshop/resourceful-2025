@@ -8,12 +8,7 @@ title: RESOURCEFUL-2020
         {% assign basepath = "" %}
         {% endif %}
 
-
-## News
-
-### View our Invited Speakers page to see the current list of confirmed speakers
-
-collocated with the [Eighth Swedish Language Technology Conference (SLTC)](https://spraakbanken.gu.se/en/sltc2020), University of Gothenburg, Sweden
+Collocated with the [Eighth Swedish Language Technology Conference (SLTC)](https://spraakbanken.gu.se/en/sltc2020), University of Gothenburg, Sweden
 
 25th November 2020
 
