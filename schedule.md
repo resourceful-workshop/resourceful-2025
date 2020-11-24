@@ -12,7 +12,7 @@ title: RESOURCEFUL-2020
 
 The workshop will be a half-day event in the morning of 25th November 2020.
 
-It will be held online. Please [register](https://sunet.artologik.net/gu/SLTC2020-registration) to get the Zoom link.
+It will be held online. ~~Please [register](https://sunet.artologik.net/gu/SLTC2020-registration) to get the Zoom link.~~ The registration is now closed, if you would like to attend [email us](mailto:resourceful2020@easychair.org).
 
   - 8:50 - 9:00: Welcome
   - 9:00 - 9:30: Keynote
