@@ -14,6 +14,8 @@ The workshop will be a half-day event in the morning of 25th November 2020.
 
 It will be held online. ~~Please [register](https://sunet.artologik.net/gu/SLTC2020-registration) to get the Zoom link.~~ The registration is now closed, if you would like to attend [email us](mailto:resourceful2020@easychair.org).
 
+You can find technical details about participating and presenting [here](https://spraakbanken.gu.se/en/sltc2020/instructions).
+
   - 8:50 - 9:00: Welcome
   - 9:00 - 9:30: Keynote
   	* Judith Gaspers, Amazon: [Spoken Language understanding in low-resource scenarios]({{basepath}}/invited_speakers.html)
