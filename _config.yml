@@ -1,7 +1,7 @@
 theme: jekyll-theme-leap-day
 theme: jekyll-theme-cayman
 description: "RESOURCEs and representations For Under-resourced Languages and domains"
-basepath: "resourceful-2020/"
+basepath: "resourceful-2023/"
 
 navigation:
 - text: Home
