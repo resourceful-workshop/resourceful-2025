@@ -36,7 +36,7 @@ In particular we would like to open a forum by bringing together students, resea
 
 Intended participants are researchers, PhD students and practitioners from diverse backgrounds (linguistics, computational linguistics, speech, machine learning etc). We foresee an interactive workshop with plenty of time for discussion, complemented with invited talks and short presentations of on-going or completed research.
 
-This workshop is a continuation of the first workshop on resources and representations for under-resourced languages and domains held together with the SLTC 2020, website at https://gu-clasp.github.io/resourceful-2020/.
+This workshop is a continuation of the first workshop on resources and representations for under-resourced languages and domains held together with the SLTC 2020, [link](https://gu-clasp.github.io/resourceful-2020/).
 
 
 ## Submission
@@ -44,18 +44,18 @@ This workshop is a continuation of the first workshop on resources and represent
 We invite submissions of both long (8 pages) and short papers (4 pages) with any number of pages for references.
 All submissions must follow the NoDaLida template, available in both LaTeX and MS Word, the templates are available at the [official conference website](https://www.nodalida2023.fo/authorkit-nodalida23).
 
-We also invite submissions of 2-page extended non-anonymous abstracts with any number of pages for references. Papers related to our theme and already presented at other venues or have already been published elsewhere will be considered for acceptance for presentation as well. The abstracts will be reviewed by the workshop organisers and the accepted ones will be posted on the website, unless authors wish not to do so.</p>
+We also invite submissions of 2-page extended non-anonymous abstracts with any number of pages for references. Papers related to our theme and already presented at other venues or have already been published elsewhere will be considered for acceptance for presentation as well. The abstracts will be reviewed by the workshop organisers and the accepted ones will be posted on the website, unless authors wish not to do so.
 
-Submissions must be anonymous and submitted in the PDF format through OpenReview: </p>
+Submissions must be anonymous and submitted in the PDF format through OpenReview:
 
 
 ## Important dates
 
- - First CfP: 25th January 2023
- - Submission deadline (both papers and abstracts): 28th March 2023
- - Notification of acceptance: 25th April 2023
- - Camera-ready: 9th May 2023
- - Workshop date: 23rd May 2023
+ - First CfP: **25th January 2023**
+ - Submission deadline (both papers and abstracts): **28th March 2023**
+ - Notification of acceptance: **25th April 2023**
+ - Camera-ready: **9th May 2023**
+ - Workshop date: **23rd May 2023**
 
 All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").
 
