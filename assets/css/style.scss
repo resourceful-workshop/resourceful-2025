@@ -21,9 +21,10 @@ body{
     // border: 3px solid blue;
     background-image: url("../../images/banner.jpg");
     background-size: cover;
-    height: 90%;
+    height: 350px;
     background-repeat: no-repeat;
     background-color: #1C8DE2;
+    transform: scale(0.8)
 }
 .iblock{
     display: inline-block;
