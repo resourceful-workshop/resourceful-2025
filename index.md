@@ -8,57 +8,54 @@ title: RESOURCEFUL-2023
         {% assign basepath = "" %}
         {% endif %}
 
-Collocated with the [Eighth Swedish Language Technology Conference (SLTC)](https://spraakbanken.gu.se/en/sltc2020), University of Gothenburg, Sweden
-
-25th November 2020
-
-The workshop will be held online.
-
-
-<div class="update">
-Please <a href="https://sunet.artologik.net/gu/SLTC2020-registration" target="_none">register for SLTC-2020</a> if you are intending to attend this workshop. Registration is free. <br>
-<a href="{{basepath}}/schedule.html">Accepted extended abstracts and schedule</a>
-</div>
-
-
-<!---
-        Update: <a>Submission of extended abstracts: 13th October 2020</a>
--->
+Co-located with the [24th Nordic Conference on Computational Linguistics](https://www.nodalida2023.fo/home), Tórshavn, Faroe Islands.
 
 
 ## Workshop description
 
-All areas of natural language processing have achieved visible breakthroughs from the use of data-driven models. Contemporary machine learning is significantly influenced by techniques that rely on large datasets that demand substantial computational resources to solve practical problems in a tangible way (e.g. models based on transformers such as BERT, VilBERT, ALBERT, and GPT-2 that are pre-trained on large corpora of unlabelled data).
+The second workshop on resources and representations for under-resourced language and domains (RESOURCEFUL-2023) explores the role of the kind and the quality of resources that are available to us and challenges and directions for constructing new resources in light of the latest trends in natural language processing.
 
-However, many of the world’s languages lack the availability of linguistic description as well as of sufficiently large computer-readable corpora of linguistic material. Even those languages that are considered well-resourced have some domains where resources are scarce, for example corpora of dialogue and situated interaction. Another similarity of these domains with under-resourced languages is that since they focus on spoken or spoken-like interaction (either in a written or an audio form) they show a high variability of input data. Applying state-of-the-art deep-neural-network-based methods for the development of data-driven systems in such resource-constrained environments is a non-trivial task.
+Data-driven machine-learning techniques in natural language processing have achieved remarkable performance (e.g., BERT, GPT, ChatGPT) but in order to do so large quantities of quality data (which is mostly text) is required.
+Interpretability studies of large language models in both text-only and multi-modal setups have revealed that even in cases where large text datasets are available, the models still do not cover all the contexts of human social activity and are prone to capturing unwanted bias where data is focused towards only some contexts.
+A question has also been raised whether textual data is enough to capture semantics of natural language processing and other modalities such as visual representations or a situated context of a robot might be required.
+Expert-driven annotator based resources have been constructed over years based on theoretical work in linguistics, psychology and related fields and a large amount of work has been done both theoretically and practically.
 
-For this workshop, we encourage contributions in the area of resource creation and representation learning in limited or low-resource environments that are tackling the above mentioned problems. In particular we would like to open a forum by bringing together students, researchers, and experts to address and discuss the following questions:
+The purpose of the workshop is to initiate a discussion between the two communities involved in building resources and exploring their synergies for the new challenges in natural language processing.
+We encourage contributions in the areas of resource creation, representation learning and interpretability in data-driven and expert-driven machine learning setups and both uni-modal and multi-modal scenarios.
+ 
+In particular we would like to open a forum by bringing together students, researchers, and experts to address and discuss the following questions:
 
-  - How can new resources be constructed or extended for languages and domains that lack standardised representations of linguistic units?
-  - What experience from building resources for languages that have a good coverage today (for example Scandinavian languages) can be ported to building resources for under-resources languages and domains?
-  -  How to deal with the variability of data and its standardisation in machine learning approaches?
-  - What algorithms and methods can we employ to transfer learning from related domains/languages that have good coverage?
-  - What is the role of multi-task learning in this domain?
-  - What representations can be learned and how effective are they in different low-resource scenarios?
-  - How can newly created resources and learned representations be evaluated?
-  - What ethical considerations are involved?
+ - What is semantic knowledge and how can semantic knowledge be sampled and extracted in practice?
+ - What kind of semantic knowledge do we want and can capture in different contexts and tasks?
+ - To what degree are resources that have been traditionally aimed at rule-based natural language processing approaches relevant today both for machine learning techniques and hybrid approaches?
+ - How can they be adapted for data-driven approaches?
+ - To what degree data-driven approaches can be used to facilitate expert-driven annotation?
+ - What are current challenges for expert-based annotation?
+ - How can crowd-sourcing and citizen science be used in building resources?
+ - How can we evaluate and reduce unwanted biases?
 
 Intended participants are researchers, PhD students and practitioners from diverse backgrounds (linguistics, computational linguistics, speech, machine learning etc). We foresee an interactive workshop with plenty of time for discussion, complemented with invited talks and short presentations of on-going or completed research.
+
+This workshop is a continuation of the first workshop on resources and representations for under-resourced languages and domains held together with the SLTC 2020, website at https://gu-clasp.github.io/resourceful-2020/.
 
 
 ## Submission
 
-We invite submissions of 2-page extended non-anonymous abstracts with any number of pages for references using the [ACL/EMNLP template](https://2020.emnlp.org/files/emnlp2020-templates.zip). Papers related to our theme and already presented at other venues or have already been published elsewhere will be considered for acceptance for presentation as well. The abstracts will be reviewed by the workshop organisers and the accepted ones will be posted on the website, unless authors wish not to do so. There will be no workshop proceedings but post-proceedings may be organised depending on the interest of authors.
+We invite submissions of both long (8 pages) and short papers (4 pages) with any number of pages for references.
+All submissions must follow the NoDaLida template, available in both LaTeX and MS Word, the templates are available at the [official conference website](https://www.nodalida2023.fo/authorkit-nodalida23).
 
-Extended abstracts should be submitted in the pdf format at [https://easychair.org/conferences/?conf=resourceful2020](https://easychair.org/conferences/?conf=resourceful2020)
+We also invite submissions of 2-page extended non-anonymous abstracts with any number of pages for references. Papers related to our theme and already presented at other venues or have already been published elsewhere will be considered for acceptance for presentation as well. The abstracts will be reviewed by the workshop organisers and the accepted ones will be posted on the website, unless authors wish not to do so.</p>
+
+Submissions must be anonymous and submitted in the PDF format through OpenReview: </p>
 
 
 ## Important dates
 
- - ~~Submission of extended abstracts: 13th October 2020~~
- - ~~Notification of acceptance: 23rd October 2020~~
- - ~~Final version: 10th November 2020~~
- - Workshop date: 25th November 2020
+ - First CfP: 25th January 2023
+ - Submission deadline (both papers and abstracts): 28th March 2023
+ - Notification of acceptance: 25th April 2023
+ - Camera-ready: 9th May 2023
+ - Workshop date: 23rd May 2023
 
 All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").
 
@@ -66,12 +63,6 @@ All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").
 ## Organizers
 
 <div>
-    <div class="iblock headshotbox ">
-        <img src="{{basepath}}/images/organizers/tewodros.jpg" class="headshot">
-                  <a href="https://www.linkedin.com/in/tewodros-abebe-gebreselassie-a7739772/" class="headshotaffiliation"> Tewodros Gebreselassie </a>
-        <div class="headshotname">  University of Gothenburg</div>
-
-    </div>
 
     <div class="iblock headshotbox ">
         <img src="{{basepath}}/images/organizers/Simon.jpeg" class="headshot">
@@ -79,19 +70,6 @@ All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").
         <div class="headshotname"> University of Gothenburg </div>
     </div>
 
-    <div class="iblock headshotbox ">
-        <img src="{{basepath}}/images/organizers/BarbaraPlank.jpeg" class="headshot">
-        <a href="https://bplank.github.io/" class="headshotaffiliation"> Barbara Plank </a>
-
-        <div class="headshotname"> IT University Copenhagen  </div>
-    </div>
-
-     <div class="iblock headshotbox ">  
-        <img src="{{basepath}}/images/organizers/LarsBorin.jpg" class="headshot">
-        <a href="https://spraakbanken.gu.se/en/about/staff/lars" class="headshotaffiliation"> Lars Borin </a>
-
-        <div class="headshotname">University of Gothenburg  </div>
-    </div>
 </div>
 
-Contact: [resourceful2020@easychair.org](mailto:resourceful2020@easychair.org)
+Contact: [resourceful-2023@listserv.gu.se](mailto:resourceful-2023@listserv.gu.se)
