@@ -1,4 +1,4 @@
-# RESOURCEFUL-2020
+# RESOURCEFUL-2023
 
-RESOURCEs and representations For Under-resourced Languages and domains 
+Resources and representations for under-resourced languages and domains 
 
