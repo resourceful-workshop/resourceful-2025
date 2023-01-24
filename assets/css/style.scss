@@ -20,10 +20,10 @@ body{
 .headerbox{
     // border: 3px solid blue;
     background-image: url("../../images/banner2.jpg");
-    height: 399px;
+    height: 400px;
     background-repeat: no-repeat;
     background-color: #1C8DE2;
-    object-fit: fill;
+    object-fit: cover;
 }
 .iblock{
     display: inline-block;
