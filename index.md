@@ -61,8 +61,8 @@ All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").
 
 ## Organizers
 
-Dana Dannélls, Språkbanken Text, University of Gothenburg <br />  
-Simon Dobnik, CLASP, University of Gothenburg <br />  
+Dana Dannélls, Språkbanken Text, University of Gothenburg  
+Simon Dobnik, CLASP, University of Gothenburg    
 Adam Ek, CLASP, University of Gothenburg <br />  
 Stella Frank, University of Copenhagen <br />  
 Nikolai Ilinykh, CLASP, University of Gothenburg <br />  
