@@ -63,16 +63,16 @@ All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").
 
 Dana Dannélls, Språkbanken Text, University of Gothenburg  
 Simon Dobnik, CLASP, University of Gothenburg    
-Adam Ek, CLASP, University of Gothenburg <br />  
-Stella Frank, University of Copenhagen <br />  
-Nikolai Ilinykh, CLASP, University of Gothenburg <br />  
-Beáta Megyesi, Uppsala University <br />  
-Felix Morger, Språkbanken Text, University of Gothenburg <br />  
-Joakim Nivre, RISE and Uppsala University <br />  
-Magnus Sahlgren, AI Sweden <br />  
-Sara Stymne, Uppsala University <br />  
-Jörg Tiedemann, University of Helsinki <br />  
-Lilja Øvrelid, University of Oslo <br /> 
+Adam Ek, CLASP, University of Gothenburg  
+Stella Frank, University of Copenhagen  
+Nikolai Ilinykh, CLASP, University of Gothenburg  
+Beáta Megyesi, Uppsala University  
+Felix Morger, Språkbanken Text, University of Gothenburg  
+Joakim Nivre, RISE and Uppsala University  
+Magnus Sahlgren, AI Sweden  
+Sara Stymne, Uppsala University  
+Jörg Tiedemann, University of Helsinki  
+Lilja Øvrelid, University of Oslo  
 
 <!--- <div>
 
