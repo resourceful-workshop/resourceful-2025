@@ -72,7 +72,7 @@ Joakim Nivre, RISE and Uppsala University, joakim.nivre@ri.se <br />
 Magnus Sahlgren, AI Sweden, magnus.sahlgren@ai.se <br />  
 Sara Stymne, Uppsala University, sara.stymne@lingfil.uu.se <br />  
 Jörg Tiedemann, University of Helsinki, jorg.tiedemann@helsinki.fi <br />  
-Lilja Øvrelid, University of Oslo, liljao@ifi.uio.no
+Lilja Øvrelid, University of Oslo, liljao@ifi.uio.no <br /> 
 
 <!--- <div>
 
