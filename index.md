@@ -61,9 +61,9 @@ All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").
 
 ## Organizers
 
-Dana Dannélls, Språkbanken Text, University of Gothenburg, dana.dannells@svenska.gu.se 
+Dana Dannélls, Språkbanken Text, University of Gothenburg, dana.dannells@svenska.gu.se <br />. 
 Simon Dobnik, CLASP, University of Gothenburg, simon.dobnik@gu.se
-Adam Ek, CLASP, University of Gothenburg, adam.ek@gu.se
+Adam Ek, CLASP, University of Gothenburg, adam.ek@gu.se <
 Stella Frank, University of Copenhagen, stfr@di.ku.dk
 Nikolai Ilinykh, CLASP, University of Gothenburg, nikolai.ilinykh@gu.se
 Beáta Megyesi, Uppsala University, beata.megyesi@lingfil.uu.se
