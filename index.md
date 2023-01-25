@@ -25,8 +25,8 @@ We encourage contributions in the areas of resource creation, representation lea
  
 In particular we would like to open a forum by bringing together students, researchers, and experts to address and discuss the following questions:
 
- - What is semantic knowledge and how can semantic knowledge be sampled and extracted in practice?
- - What kind of semantic knowledge do we want and can capture in different contexts and tasks?
+ - What is relevant linguistic knowledge the models should capture and how can this knowledge be sampled and extracted in practice?
+ - What kind of linguistic knowledge do we want and can capture in different contexts and tasks?
  - To what degree are resources that have been traditionally aimed at rule-based natural language processing approaches relevant today both for machine learning techniques and hybrid approaches?
  - How can they be adapted for data-driven approaches?
  - To what degree data-driven approaches can be used to facilitate expert-driven annotation?
@@ -45,7 +45,7 @@ We invite submissions of both long (8 pages) and short papers (4 pages) with any
 All submissions must follow the NoDaLida template, available in both LaTeX and MS Word, the templates are available at the [official conference website](https://www.nodalida2023.fo/authorkit-nodalida23).
 Submissions must be anonymous and submitted in the PDF format through OpenReview.
 
-We also invite submissions of 2-page extended non-anonymous abstracts with any number of pages for references describing work in progress, negative results and opinion pieces. Papers related to our theme and already presented at other venues or have already been published elsewhere will be considered for acceptance for presentation as well. The abstracts, which should follow the same formatting templates as the archival track, will be reviewed by the workshop organisers and the accepted ones will be posted on the workshop website.
+We also invite submissions of maximum 2-page extended non-anonymous abstracts with any number of pages for references describing work in progress, negative results and opinion pieces. Papers related to our theme and already presented at other venues or have already been published elsewhere will be considered for acceptance for presentation as well. The abstracts, which should follow the same formatting templates as the archival track, will be reviewed by the workshop organisers and the accepted ones will be posted on the workshop website.
 
 
 ## Important dates
