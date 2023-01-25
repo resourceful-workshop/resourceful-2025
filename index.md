@@ -61,17 +61,17 @@ All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").
 
 ## Organizers
 
-Dana Dannélls, Språkbanken Text, University of Gothenburg, dana.dannells@svenska.gu.se <br />. 
-Simon Dobnik, CLASP, University of Gothenburg, simon.dobnik@gu.se
-Adam Ek, CLASP, University of Gothenburg, adam.ek@gu.se <
-Stella Frank, University of Copenhagen, stfr@di.ku.dk
-Nikolai Ilinykh, CLASP, University of Gothenburg, nikolai.ilinykh@gu.se
-Beáta Megyesi, Uppsala University, beata.megyesi@lingfil.uu.se
-Felix Morger, Språkbanken Text, University of Gothenburg, felix.morger@gu.se
-Joakim Nivre, RISE and Uppsala University, joakim.nivre@ri.se
-Magnus Sahlgren, AI Sweden, magnus.sahlgren@ai.se 
-Sara Stymne, Uppsala University, sara.stymne@lingfil.uu.se 
-Jörg Tiedemann, University of Helsinki, jorg.tiedemann@helsinki.fi 
+Dana Dannélls, Språkbanken Text, University of Gothenburg, dana.dannells@svenska.gu.se <br />  
+Simon Dobnik, CLASP, University of Gothenburg, simon.dobnik@gu.se <br />  
+Adam Ek, CLASP, University of Gothenburg, adam.ek@gu.se <br />  
+Stella Frank, University of Copenhagen, stfr@di.ku.dk <br />  
+Nikolai Ilinykh, CLASP, University of Gothenburg, nikolai.ilinykh@gu.se <br />  
+Beáta Megyesi, Uppsala University, beata.megyesi@lingfil.uu.se <br />  
+Felix Morger, Språkbanken Text, University of Gothenburg, felix.morger@gu.se <br />  
+Joakim Nivre, RISE and Uppsala University, joakim.nivre@ri.se <br />  
+Magnus Sahlgren, AI Sweden, magnus.sahlgren@ai.se <br />  
+Sara Stymne, Uppsala University, sara.stymne@lingfil.uu.se <br />  
+Jörg Tiedemann, University of Helsinki, jorg.tiedemann@helsinki.fi <br />  
 Lilja Øvrelid, University of Oslo, liljao@ifi.uio.no
 
 <!--- <div>
