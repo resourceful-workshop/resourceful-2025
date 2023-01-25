@@ -85,5 +85,7 @@ Lilja Øvrelid, University of Oslo, liljao@ifi.uio.no <br />
 </div> --->
 
 
-Contact: [resourceful-2023@listserv.gu.se](mailto:resourceful-2023@listserv.gu.se)
+## Contact
+
+Email: [resourceful-2023@listserv.gu.se](mailto:resourceful-2023@listserv.gu.se)
 
