@@ -17,10 +17,10 @@ The second workshop on resources and representations for under-resourced languag
 
 Data-driven machine-learning techniques in natural language processing have achieved remarkable performance (e.g., BERT, GPT, ChatGPT) but in order to do so large quantities of quality data (which is mostly text) is required.
 Interpretability studies of large language models in both text-only and multi-modal setups have revealed that even in cases where large text datasets are available, the models still do not cover all the contexts of human social activity and are prone to capturing unwanted bias where data is focused towards only some contexts.
-A question has also been raised whether textual data is enough to capture semantics of natural language processing and other modalities such as visual representations or a situated context of a robot might be required.
-Expert-driven annotator based resources have been constructed over years based on theoretical work in linguistics, psychology and related fields and a large amount of work has been done both theoretically and practically.
+A question has also been raised whether textual data is enough to capture semantics of natural language processing and other modalities such as visual representations or a situated context of a robot might be required. 
+Annotator-based resources have been constructed over years based on theoretical work in linguistics, psychology and related fields and a large amount of work has been done both theoretically and practically.
 
-The purpose of the workshop is to initiate a discussion between the two communities involved in building resources and exploring their synergies for the new challenges in natural language processing.
+The purpose of the workshop is to initiate a discussion between the two communities involved in building resources (data vs annotation-based) and exploring their synergies for the new challenges in natural language processing.
 We encourage contributions in the areas of resource creation, representation learning and interpretability in data-driven and expert-driven machine learning setups and both uni-modal and multi-modal scenarios.
  
 In particular we would like to open a forum by bringing together students, researchers, and experts to address and discuss the following questions:
