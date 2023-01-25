@@ -61,7 +61,20 @@ All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").
 
 ## Organizers
 
-<div>
+Dana Dannélls, Språkbanken Text, University of Gothenburg, dana.dannells@svenska.gu.se 
+Simon Dobnik, CLASP, University of Gothenburg, simon.dobnik@gu.se
+Adam Ek, CLASP, University of Gothenburg, adam.ek@gu.se
+Stella Frank, University of Copenhagen, stfr@di.ku.dk
+Nikolai Ilinykh, CLASP, University of Gothenburg, nikolai.ilinykh@gu.se
+Beáta Megyesi, Uppsala University, beata.megyesi@lingfil.uu.se
+Felix Morger, Språkbanken Text, University of Gothenburg, felix.morger@gu.se
+Joakim Nivre, RISE and Uppsala University, joakim.nivre@ri.se
+Magnus Sahlgren, AI Sweden, magnus.sahlgren@ai.se 
+Sara Stymne, Uppsala University, sara.stymne@lingfil.uu.se 
+Jörg Tiedemann, University of Helsinki, jorg.tiedemann@helsinki.fi 
+Lilja Øvrelid, University of Oslo, liljao@ifi.uio.no
+
+<!--- <div>
 
     <div class="iblock headshotbox ">
         <img src="{{basepath}}/images/organizers/Simon.jpeg" class="headshot">
@@ -69,7 +82,7 @@ All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").
         <div class="headshotname"> University of Gothenburg </div>
     </div>
 
-</div>
+</div> --->
 
 
 Contact: [resourceful-2023@listserv.gu.se](mailto:resourceful-2023@listserv.gu.se)
