@@ -61,7 +61,7 @@ All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").
 
 ## Organizers
 
-Dana Dannélls, Språkbanken Text, University of Gothenburg  
+<!-- Dana Dannélls, Språkbanken Text, University of Gothenburg  
 Simon Dobnik, CLASP, University of Gothenburg    
 Adam Ek, CLASP, University of Gothenburg  
 Stella Frank, University of Copenhagen  
@@ -72,17 +72,70 @@ Joakim Nivre, RISE and Uppsala University
 Magnus Sahlgren, AI Sweden  
 Sara Stymne, Uppsala University  
 Jörg Tiedemann, University of Helsinki  
-Lilja Øvrelid, University of Oslo  
+Lilja Øvrelid, University of Oslo   -->
 
-<!--- <div>
-
+<div>
+    <div class="iblock headshotbox ">
+        <img src="{{basepath}}/images/organizers/Dana.png" class="headshot">
+        <a href="https://www.gu.se/en/about/find-staff/danadannells" class="headshotaffiliation">Dana Dannélls</a>         
+        <div class="headshotname">University of Gothenburg</div>
+    </div>
     <div class="iblock headshotbox ">
         <img src="{{basepath}}/images/organizers/Simon.jpeg" class="headshot">
-        <a href="https://www.gu.se/en/about/find-staff/simondobnik" class="headshotaffiliation"> Simon Dobnik </a>         
-        <div class="headshotname"> University of Gothenburg </div>
+        <a href="https://www.gu.se/en/about/find-staff/simondobnik" class="headshotaffiliation">Simon Dobnik</a>         
+        <div class="headshotname">University of Gothenburg</div>
     </div>
-
-</div> --->
+    <div class="iblock headshotbox ">
+        <img src="{{basepath}}/images/organizers/Adam.jpg" class="headshot">
+        <a href="https://www.gu.se/om-universitetet/hitta-person/adamek" class="headshotaffiliation">Adam Ek</a>         
+        <div class="headshotname">University of Gothenburg</div>
+    </div>
+    <div class="iblock headshotbox ">
+        <img src="{{basepath}}/images/organizers/Stella.jpg" class="headshot">
+        <a href="https://di.ku.dk/english/staff/?pure=en/persons/746828" class="headshotaffiliation">Stella Frank</a>         
+        <div class="headshotname">University of Copenhagen</div>
+    </div>
+    <div class="iblock headshotbox ">
+        <img src="{{basepath}}/images/organizers/Nikolai.jpg" class="headshot">
+        <a href="https://www.gu.se/en/about/find-staff/nikolaiilinykh" class="headshotaffiliation">Nikolai Ilinykh</a>         
+        <div class="headshotname">University of Gothenburg</div>
+    </div>
+    <div class="iblock headshotbox ">
+        <img src="{{basepath}}/images/organizers/Beata.jpg" class="headshot">
+        <a href="https://www.katalog.uu.se/profile/?id=N4-927" class="headshotaffiliation">Beáta Megyesi</a>         
+        <div class="headshotname">Uppsala University</div>
+    </div>
+    <div class="iblock headshotbox ">
+        <img src="{{basepath}}/images/organizers/Felix.jpeg" class="headshot">
+        <a href="https://www.gu.se/om-universitetet/hitta-person/Felix.jpeg" class="headshotaffiliation">Felix Morger</a>         
+        <div class="headshotname">University of Gothenburg</div>
+    </div>
+    <div class="iblock headshotbox ">
+        <img src="{{basepath}}/images/organizers/Joakim.jpg" class="headshot">
+        <a href="https://cl.lingfil.uu.se/~nivre/" class="headshotaffiliation">Joakim Nivre</a>         
+        <div class="headshotname">RISE and Uppsala University</div>
+    </div>
+    <div class="iblock headshotbox ">
+        <img src="{{basepath}}/images/organizers/Magnus.jpg" class="headshot">
+        <a href="https://careers.ai.se/people/1142160-magnus-sahlgren" class="headshotaffiliation">Magnus Sahlgren</a>         
+        <div class="headshotname">AI Sweden</div>
+    </div>
+    <div class="iblock headshotbox ">
+        <img src="{{basepath}}/images/organizers/Simon.jpeg" class="headshot">
+        <a href="https://cl.lingfil.uu.se/~sara/" class="headshotaffiliation">Sara Stymne</a>         
+        <div class="headshotname">Uppsala University</div>
+    </div>
+    <div class="iblock headshotbox ">
+        <img src="{{basepath}}/images/organizers/Tiedemann.png" class="headshot">
+        <a href="https://blogs.helsinki.fi/tiedeman/" class="headshotaffiliation">Jörg Tiedemann</a>         
+        <div class="headshotname">University of Helsinki</div>
+    </div>
+    <div class="iblock headshotbox ">
+        <img src="{{basepath}}/images/organizers/Lilja.jpg" class="headshot">
+        <a href="https://www.mn.uio.no/ifi/english/people/aca/liljao/" class="headshotaffiliation">Lilja Øvrelid</a>         
+        <div class="headshotname"> University of Oslo</div>
+    </div>
+</div>
 
 
 ## Contact
