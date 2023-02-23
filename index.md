@@ -107,7 +107,7 @@ Lilja Øvrelid, University of Oslo   -->
     </div>
     <div class="iblock headshotbox ">
         <img src="{{basepath}}/images/organizers/Felix.jpeg" class="headshot">
-        <a href="https://www.gu.se/om-universitetet/hitta-person/Felix.jpeg" class="headshotaffiliation">Felix Morger</a>         
+        <a href="https://www.gu.se/om-universitetet/hitta-person/Felix.png" class="headshotaffiliation">Felix Morger</a>
         <div class="headshotname">University of Gothenburg</div>
     </div>
     <div class="iblock headshotbox ">
