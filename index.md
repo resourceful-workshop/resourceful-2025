@@ -91,7 +91,7 @@ Lilja Øvrelid, University of Oslo   -->
         <div class="headshotname">University of Gothenburg</div>
     </div>
     <div class="iblock headshotbox ">
-        <img src="{{basepath}}/images/organizers/Stella.jpg" class="headshot">
+        <img src="{{basepath}}/images/organizers/Stella.jpeg" class="headshot">
         <a href="https://di.ku.dk/english/staff/?pure=en/persons/746828" class="headshotaffiliation">Stella Frank</a>         
         <div class="headshotname">University of Copenhagen</div>
     </div>
