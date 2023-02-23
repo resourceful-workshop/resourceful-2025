@@ -121,7 +121,7 @@ Lilja Øvrelid, University of Oslo   -->
         <div class="headshotname">AI Sweden</div>
     </div>
     <div class="iblock headshotbox ">
-        <img src="{{basepath}}/images/organizers/Simon.jpeg" class="headshot">
+        <img src="{{basepath}}/images/organizers/Sara.jpg" class="headshot">
         <a href="https://cl.lingfil.uu.se/~sara/" class="headshotaffiliation">Sara Stymne</a>         
         <div class="headshotname">Uppsala University</div>
     </div>
