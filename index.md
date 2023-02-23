@@ -142,7 +142,7 @@ Lilja Øvrelid, University of Oslo   -->
 <div>
     <div class="iblock headshotbox ">
     <a href="https://sprakbanken.se/sprakbankeninenglish.html" class="headshotaffiliation">
-        <img src="{{basepath}}/images/Nationella_språkbanken_logo.svg.png" class="headshot">
+        <img src="{{basepath}}/images/spraakbanken_logo.svg.png" class="headshot">
     </a>
         <div class="headshotname">Nationella Språkbanken / The National Language Bank of Sweden</div>
     </div>
