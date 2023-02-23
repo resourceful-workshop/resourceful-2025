@@ -132,11 +132,21 @@ Lilja Øvrelid, University of Oslo   -->
     </div>
     <div class="iblock headshotbox ">
         <img src="{{basepath}}/images/organizers/Lilja.jpg" class="headshot">
-        <a href="https://www.mn.uio.no/ifi/english/people/aca/liljao/" class="headshotaffiliation">Lilja Øvrelid</a>         
+        <a href="https://www.mn.uio.no/ifi/english/people/aca/liljao/" class="headshotaffiliation">Lilja Øvrelid</a>
         <div class="headshotname"> University of Oslo</div>
     </div>
 </div>
 
+## Sponsors
+
+<div>
+    <div class="iblock headshotbox ">
+    <a href="https://sprakbanken.se/sprakbankeninenglish.html" class="headshotaffiliation">
+        <img src="{{basepath}}/images/Nationella_språkbanken_logo.svg.png" class="headshot">
+    </a>
+        <div class="headshotname">Nationella Språkbanken / The National Language Bank of Sweden</div>
+    </div>
+</div>
 
 ## Contact
 
