@@ -137,7 +137,7 @@ Lilja Øvrelid, University of Oslo   -->
     </div>
 </div>
 
-## Sponsors
+## Partner organizers
 
 <div>
     <div class="iblock headshotbox ">
