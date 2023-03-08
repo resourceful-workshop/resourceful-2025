@@ -141,8 +141,8 @@ Lilja Øvrelid, University of Oslo   -->
 
 <div>
     <div class="iblock headshotbox ">
-        <a href="https://sprakbanken.se/sprakbankeninenglish.html" class="headshotaffiliation">
-            <img src="{{basepath}}/images/spraakbanken_logo.svg.png">
+        <a href="https://spraakbanken.gu.se/en" class="headshotaffiliation">
+            <img src="{{basepath}}/images/sbx-logo.svg">
         </a>
     </div>
 </div>
