@@ -51,10 +51,14 @@ We also invite submissions of maximum 2-page extended non-anonymous abstracts wi
 ## Important dates
 
  - First CfP: **25th January 2023**
- - Submission deadline (both papers and abstracts): **28th March 2023**
+ - Seconf CfP: **27th February 2023**
+ 
+ - Submission deadline for archival papers: **28th March 2023**
+ - Submission deadline for non-archival papers: **4th April 2023**
  - Notification of acceptance: **25th April 2023**
  - Camera-ready: **9th May 2023**
  - Workshop date: **22nd May 2023**
+
 
 All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").
 
