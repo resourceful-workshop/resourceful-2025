@@ -12,7 +12,7 @@ title: RESOURCEFUL-2023
 ## Speakers
 
 <div>
-    <div class="iblock headshotbox ">
+    <div class="iblock headshot-invited-speaker">
         <img src="{{basepath}}/images/speakers/Tiedemann.jpg" class="headshot">
         <a href="https://blogs.helsinki.fi/tiedeman/" class="headshotaffiliation"> Jörg Tiedemann </a>
         <div class="headshotname"> University of Helsinki </div>
