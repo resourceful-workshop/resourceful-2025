@@ -12,10 +12,8 @@ title: RESOURCEFUL-2023
 
 
 ## Talk
-
-  - <span style="color:red">
-test
-</span>
+  *  <font size="10"> On the role of resources in the age of large language models </font>  
+  <span style="color:gray"> Simon Dobnik </span>
 
 ## Poster
 
