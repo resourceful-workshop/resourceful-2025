@@ -10,4 +10,6 @@ navigation:
   url: /schedule.html
 - text: Invited Speakers
   url: /invited_speakers.html
+- text: Accepted Papers
+  url: /papers.html
 
