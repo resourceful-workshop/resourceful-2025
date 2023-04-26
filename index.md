@@ -10,6 +10,10 @@ title: RESOURCEFUL-2023
 
 Co-located with the [24th Nordic Conference on Computational Linguistics](https://www.nodalida2023.fo/home), Tórshavn, Faroe Islands.
 
+## News
+
+**25-04-2023**: Decision notifications are out, the list of accepted papers is published.
+
 
 ## Workshop description
 
