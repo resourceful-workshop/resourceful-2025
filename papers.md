@@ -40,5 +40,32 @@ title: RESOURCEFUL-2023
 
 ## Posters
 
-  - test
-
+  *  <font size="4"> <b> Prediction and Generation of Gaze in Conversation using Deep learning </b> </font>  
+  <span style="color:gray"> Vidya Somashekarappa, Christine Howes, Asad B. Sayeed </span>
+  
+  *  <font size="4"> <b> Vector Norms as an Approximation of Syntactic Complexity </b> </font>  
+  <span style="color:gray"> Adam Ek, Nikolai Ilinykh </span>
+  
+  *  <font size="4"> <b> Phonotactics as an Aid in Low Resource Loan Word Detection and Morphological Analysis in Sakha </b> </font>  
+  <span style="color:gray"> Petter Mæhlum, Sardana Ivanova </span>
+  
+  *  <font size="4"> <b> Bridging the Resource Gap: Exploring the Efficacy of English and Multilingual LLMs for Swedish </b> </font>  
+  <span style="color:gray"> Oskar Holmström, Jenny Kunz, Marco Kuhlmann </span>
+  
+  *  <font size="4"> <b> Building Okinawan Lexicon Resource for Language Reclamation/Revitalization and Natural Language Processing Tasks such as Universal Dependencies Treebanking </b> </font>  
+  <span style="color:gray"> So Miyagawa, Kanji Kato, Miho Zlazli, Salvatore Carlino, Seira Machida </span>
+ 
+  *  <font size="4"> <b> LLOD compliant Representation of Sign Language Data </b> </font>  
+  <span style="color:gray"> Thierry Declerck, Sussi Olsen </span>
+  
+  *  <font size="4"> <b> Lexical Semantics with Vector Symbolic Architectures </b> </font>  
+  <span style="color:gray"> Adam Roussel </span>
+  
+  *  <font size="4"> <b> Word Substitution with Masked Language Models as Data Augmentation for Sentiment Analysis </b> </font>  
+  <span style="color:gray"> Larisa Kolesnichenko, Erik Velldal, Lilja Øvrelid </span>
+  
+  *  <font size="4"> <b> Sentiment Analysis Using Aligned Word Embeddings for Uralic Languages </b> </font>  
+  <span style="color:gray"> Khalid Alnajjar, Mika Hämäläinen, Jack Rueter </span>
+  
+  *  <font size="4"> <b> The DA-ELEXIS Corpus - a Sense-Annotated Corpus for Danish with Parallel Annotations for Nine European Languages </b> </font>  
+  <span style="color:gray"> Bolette S. Pedersen, Sanni Nimb, Sussi Olsen, Thomas Troelsgård, Ida Flörke, Jonas Jensen, Henrik Lorentzen </span>
