@@ -11,7 +11,7 @@ title: RESOURCEFUL-2023
 # Accepted papers
 
 
-## Talk
+## Oral presentation
 
   *  <font size="4"> **On the role of resources in the age of large language models** </font>  
   <span style="color:gray"> Simon Dobnik </span>
@@ -19,7 +19,7 @@ title: RESOURCEFUL-2023
   *  <font size="4"> **Low-Resource Techniques for Analysing the Rhetorical Structure of Swedish Historical Petitions** </font>  
   <span style="color:gray"> Ellinor Lindqvist, Eva Pettersson, Joakim Nivre </span>
 
-## Poster
+## Poster presentation
 
   - test
 
