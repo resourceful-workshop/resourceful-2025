@@ -12,10 +12,10 @@ title: RESOURCEFUL-2023
 
 The workshop will take place on the 22nd of May 2023.
 
+To attend the workshop either on-site or on-line, please register for [NoDaLiDa 2023](https://www.nodalida2023.fo/registration).
+
+
 <hr>
-
-
-
 
 **8:50 - 9:00** Welcome
 
@@ -61,4 +61,17 @@ On the role of resources in the age of large language models (Simon Dobnik)
 
 <hr>
 
-More details on the program will be published later.
+
+## Presentation details
+
+### If you are presenting a talk
+
+  - Each talk can take up to 20 minutes overall of which at least 5 minutes are reserved for questions.
+  - Before the talk upload your presentations slides to [this folder]() which will be accessible from the on-site presentation computer.
+  - If you are presenting online, you can share your slides directly but you can still upload your files as a backup if something goes wrong.
+  
+
+### If you are presenting a poster
+
+  - There will be poster boards that can fit posters of A0 portrait size.
+
