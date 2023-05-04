@@ -59,7 +59,7 @@ We also invite submissions of maximum 2-page extended non-anonymous abstracts wi
  - Submission deadline for archival papers: **28th March 2023**
  - Submission deadline for non-archival papers: **4th April 2023**
  - Notification of acceptance: **25th April 2023**
- - Camera-ready: <del>9th May 2023</del> **5th May 2023**
+ - Camera-ready: <del>9th May 2023</del> **4th May 2023**
  - Workshop date: **22nd May 2023**
 
 
