@@ -29,7 +29,7 @@ The demand for translation is ever growing and this trend will not stop. Being a
 
 <div>
     <div class="iblock headshot-invited-speaker">
-        <img src="{{basepath}}/images/speakers/Darja-Fiser.jpeg" class="headshot">
+        <img src="{{basepath}}/images/speakers/Darja-Fiser.jpg" class="headshot">
         <a href="www.clarin.eu/person/darja-fiser" class="headshotaffiliation"> Darja Fišer </a>
         <div class="headshotname"> University of Ljubljana and Jožef Stefan Institute </div>
     </div>
