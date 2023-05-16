@@ -23,7 +23,7 @@ To attend the workshop either on-site or on-line, please register for [NoDaLiDa 
 
 **9:30 - 9:40** Break
 
-**9:40 - 11:00** Oral Presentations
+**9:40 - 11:00** Oral Presentations (chair: Sara Stymne)
 
 Are There Any Limits to English-Swedish Language Transfer? A Fine-grained Analysis Using Natural Language Inference (Felix Morger)
 
@@ -35,7 +35,7 @@ Part-of-Speech tagging Spanish Sign Language data and its applications in Sign L
 
 **11:00 - 11:10** Break
 
-**11:10 - 11:50** Oral Presentations
+**11:10 - 11:50** Oral Presentations (chair: Lilja Øvrelid)
 
 What Causes Unemployment? Unsupervised Causality Mining from Swedish Governmental Reports (Luise Dürlich, Joakim Nivre, Sara Stymne)
 
@@ -47,7 +47,7 @@ Low-Resource Techniques for Analysing the Rhetorical Structure of Swedish Histor
 
 **13:30 - 13:40** Break
 
-**13:40 - 14:20** Oral Presentations
+**13:40 - 14:20** Oral Presentations (chair: Jörg Tiedemann)
 
 Ableist Language Teching over Sign Language Research (Carl Börstell)
 
