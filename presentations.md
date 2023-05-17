@@ -2,10 +2,10 @@
 
 ## Presentation details
 
-- Register for NoDaLiDa: https://www.nodalida2023.fo/registration
+- Register for NoDaLiDa: <https://www.nodalida2023.fo/registration>
 - The registration includes workshop-only option and online registration.
 - __Where to upload my slides?__
-  - https://linux.dobnik.net/cloud/s/Srz2ygCyHWZ57Fx
+  - <https://linux.dobnik.net/cloud/s/Srz2ygCyHWZ57Fx>
 
 
 ### What type of presentation do you have?
@@ -20,8 +20,8 @@
 
   - There will be poster boards that can fit posters of **A0** portrait size.
   - __Where can I print the poster in Tórshavn?__
-    - Føroya Prent shop: https://foroyaprent.fo/  
-    - Write an email with your poster attached: info@foroyaprent.fo  
+    - Føroya Prent shop: <https://foroyaprent.fo/> 
+    - Write an email with your poster attached: <info@foroyaprent.fo>  
     - The shop is not in the city center and not immediately close to the venue, so plan accordingly.
     - For example, if you are taking an Airport Shuttle from the airport, you might be able to ask them to make a short stop on the way to your hotel/the workshop venue to pick up the poster.
 
