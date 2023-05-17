@@ -199,7 +199,7 @@ Lilja Øvrelid, University of Oslo   -->
 <div>
     <div class="iblock headshotbox " style="height:42px;width:42px">
         <a href="https://www.helsinki.fi/en" class="headshotaffiliation">
-            <img src="{{basepath}}/images/U-helsinki.pdf" style="width:500%; height:500%">
+            <img src="{{basepath}}/images/helsinki.jpg" style="width:500%; height:500%">
         </a>
     </div>
 </div>
@@ -208,7 +208,7 @@ Lilja Øvrelid, University of Oslo   -->
 <div>
     <div class="iblock headshotbox " style="height:42px;width:42px">
         <a href="https://www.ku.dk/english/" class="headshotaffiliation">
-            <img src="{{basepath}}/images/U-Copenhagen.svg" style="width:500%; height:500%">
+            <img src="{{basepath}}/images/U-Copenhagen.svg" style="width:600%; height:600%">
         </a>
     </div>
 </div>
@@ -221,6 +221,8 @@ Lilja Øvrelid, University of Oslo   -->
         </a>
     </div>
 </div>
+
+<br><br><br><br><br>
 
 ## Contact
 
