@@ -12,4 +12,6 @@ navigation:
   url: /invited_speakers.html
 - text: Accepted Papers
   url: /papers.html
+- text: Presentation Details
+  url: /presentations.html
 
