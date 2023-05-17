@@ -12,8 +12,12 @@ Co-located with the [24th Nordic Conference on Computational Linguistics](https:
 
 ## News
 
-**25-04-2023**: Decision notifications are out, the list of accepted papers is published.
+**For on-site participants:**
 
+  - Location: __University of the Faroe Islands, location at Sjóvinnuhúsið__.
+  - Address: __Vestara Bryggja 15, Tórshavn__.
+  - Room: __Kongshøll, 3rd floor__.
+  - The room has a computer, a microphone and other arrangements for presentations (e.g., Zoom).
 
 ## Workshop description
 
