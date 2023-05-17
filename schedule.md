@@ -53,7 +53,11 @@ Ableist Language Teching over Sign Language Research (Carl Börstell)
 
 On the role of resources in the age of large language models (Simon Dobnik)
 
-**14:20 - 15:40** Poster Session
+**14:20 - 14:30** Poster Session: Lightning talks
+
+Order of talks are the same as in the poster list on the [Accepted Papers](papers.html) page.
+
+**14:30 - 15:40** Poster Session (including coffee break) \[all posters onsite\]
 
 **15:40 - 16:40** Panel Discussion
 
