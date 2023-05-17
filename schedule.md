@@ -57,7 +57,7 @@ On the role of resources in the age of large language models (Simon Dobnik)
 
 Order of talks are the same as in the poster list on the [Accepted Papers](papers.html) page.
 
-**14:30 - 15:40** Poster Session (including coffee break) \[all posters onsite\]
+**14:30 - 15:40** Poster Session (including coffee break) \[all posters on-site\]
 
 **15:40 - 16:40** Panel Discussion
 
