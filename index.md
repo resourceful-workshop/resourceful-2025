@@ -176,7 +176,7 @@ Lilja Øvrelid, University of Oslo   -->
         </a>
     </div>
 </div>
-<br><br><br><br><br>
+<br><br><br><br>
 
 <div>
     <div class="iblock headshotbox " style="height:42px;width:42px">
@@ -185,7 +185,7 @@ Lilja Øvrelid, University of Oslo   -->
         </a>
     </div>
 </div>
-<br><br><br>
+<br><br><br><br>
 
 <div>
     <div class="iblock headshotbox " style="height:42px;width:42px">
