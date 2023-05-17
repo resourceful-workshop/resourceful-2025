@@ -148,6 +148,7 @@ Lilja Øvrelid, University of Oslo   -->
     </div>
 </div>
 
+
 ## Partner organizers
 
 <div>
@@ -171,7 +172,7 @@ Lilja Øvrelid, University of Oslo   -->
 <div>
     <div class="iblock headshotbox " style="height:42px;width:42px">
         <a href="https://www.uu.se" class="headshotaffiliation">
-            <img src="{{basepath}}/images/UU_logo_color.pdf" style="width:270%; height:200%">
+            <img src="{{basepath}}/images/UU_logo_color.pdf" style="width:370%; height:350%">
         </a>
     </div>
 </div>
