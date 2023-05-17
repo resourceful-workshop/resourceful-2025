@@ -157,7 +157,7 @@ Lilja Øvrelid, University of Oslo   -->
         </a>
     </div>
 </div>
-<br><br><br>
+&nbsp;&nbsp;&nbsp;
 
 <div>
     <div class="iblock headshotbox " style="height:42px;width:42px">
