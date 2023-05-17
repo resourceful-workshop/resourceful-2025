@@ -153,7 +153,7 @@ Lilja Øvrelid, University of Oslo   -->
 <div>
     <div class="iblock headshotbox " style="height:80px;width:80px">
         <a href="https://www.gu.se/en" class="headshotaffiliation">
-            <img src="{{basepath}}/images/U-gothenburg.png" style="width:100%; height:100%">
+            <img src="{{basepath}}/images/U-gothenburg.png" style="width:200%; height:200%">
         </a>
     </div>
 </div>
