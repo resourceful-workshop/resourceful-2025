@@ -13,7 +13,9 @@ title: RESOURCEFUL-2023
 
 - Register for NoDaLiDa: <https://www.nodalida2023.fo/registration>
 - The registration includes workshop-only option and online registration.
-- __Where to upload my slides?__
+- __Uploading lighting presentations:__
+  - <https://linux.dobnik.net/cloud/s/9p9Skg8nkyS2Cae>
+- __Uploading slides for talks:__
   - <https://linux.dobnik.net/cloud/s/Srz2ygCyHWZ57Fx>
 
 
