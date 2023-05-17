@@ -181,7 +181,7 @@ Lilja Øvrelid, University of Oslo   -->
 <div>
     <div class="iblock headshotbox " style="height:42px;width:42px">
         <a href="https://www.uio.no/english/" class="headshotaffiliation">
-            <img src="{{basepath}}/images/uio.pdf" style="width:1300%; height:350%">
+            <img src="{{basepath}}/images/uio.pdf" style="width:1200%; height:350%">
         </a>
     </div>
 </div>
