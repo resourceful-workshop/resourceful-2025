@@ -28,6 +28,7 @@ title: RESOURCEFUL-2023
 #### If you are presenting a poster
 
   - There will be poster boards that can fit posters of **A0** portrait size.
+  - __5__ basic walls, posters can be placed on both sides (__10__).
   - __Where can I print the poster in Tórshavn?__
     - Føroya Prent shop: <https://foroyaprent.fo/> 
     - Write an email with your poster attached: <info@foroyaprent.fo>  
