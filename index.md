@@ -152,7 +152,7 @@ Lilja Øvrelid, University of Oslo   -->
 
 <div>
     <div class="iblock headshotbox ">
-        <a href="https://spraakbanken.gu.se/en" class="headshotaffiliation">
+        <a href="https://www.gu.se/en" class="headshotaffiliation">
             <img src="{{basepath}}/images/U-gothenburg.png">
         </a>
     </div>
@@ -160,7 +160,7 @@ Lilja Øvrelid, University of Oslo   -->
 
 <div>
     <div class="iblock headshotbox ">
-        <a href="https://spraakbanken.gu.se/en" class="headshotaffiliation">
+        <a href="https://gu-clasp.github.io" class="headshotaffiliation">
             <img src="{{basepath}}/images/CLASP-orange.pdf">
         </a>
     </div>
@@ -168,7 +168,7 @@ Lilja Øvrelid, University of Oslo   -->
 
 <div>
     <div class="iblock headshotbox ">
-        <a href="https://spraakbanken.gu.se/en" class="headshotaffiliation">
+        <a href="https://www.uu.se" class="headshotaffiliation">
             <img src="{{basepath}}/images/UU_logo_color.pdf">
         </a>
     </div>
@@ -176,7 +176,7 @@ Lilja Øvrelid, University of Oslo   -->
 
 <div>
     <div class="iblock headshotbox ">
-        <a href="https://spraakbanken.gu.se/en" class="headshotaffiliation">
+        <a href="https://www.uio.no/english/" class="headshotaffiliation">
             <img src="{{basepath}}/images/uio.pdf">
         </a>
     </div>
@@ -184,7 +184,7 @@ Lilja Øvrelid, University of Oslo   -->
 
 <div>
     <div class="iblock headshotbox ">
-        <a href="https://spraakbanken.gu.se/en" class="headshotaffiliation">
+        <a href="https://www.ai.se/en" class="headshotaffiliation">
             <img src="{{basepath}}/images/ai-2.svg">
         </a>
     </div>
@@ -192,7 +192,7 @@ Lilja Øvrelid, University of Oslo   -->
 
 <div>
     <div class="iblock headshotbox ">
-        <a href="https://spraakbanken.gu.se/en" class="headshotaffiliation">
+        <a href="https://www.helsinki.fi/en" class="headshotaffiliation">
             <img src="{{basepath}}/images/U-helsinki.pdf">
         </a>
     </div>
@@ -200,7 +200,7 @@ Lilja Øvrelid, University of Oslo   -->
 
 <div>
     <div class="iblock headshotbox ">
-        <a href="https://spraakbanken.gu.se/en" class="headshotaffiliation">
+        <a href="https://www.ku.dk/english/" class="headshotaffiliation">
             <img src="{{basepath}}/images/U-Copenhagen.pdf">
         </a>
     </div>
