@@ -190,7 +190,7 @@ Lilja Øvrelid, University of Oslo   -->
 <div>
     <div class="iblock headshotbox " style="height:42px;width:42px">
         <a href="https://www.ai.se/en" class="headshotaffiliation">
-            <img src="{{basepath}}/images/ai-2.svg" style="width:500%; height:500%">
+            <img src="{{basepath}}/images/ai-2.svg" style="width:450%; height:450%">
         </a>
     </div>
 </div>
@@ -199,7 +199,7 @@ Lilja Øvrelid, University of Oslo   -->
 <div>
     <div class="iblock headshotbox " style="height:42px;width:42px">
         <a href="https://www.helsinki.fi/en" class="headshotaffiliation">
-            <img src="{{basepath}}/images/helsinki.jpg" style="width:500%; height:500%">
+            <img src="{{basepath}}/images/helsinki.jpg" style="width:600%; height:500%">
         </a>
     </div>
 </div>
