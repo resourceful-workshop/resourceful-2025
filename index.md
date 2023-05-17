@@ -162,7 +162,7 @@ Lilja Øvrelid, University of Oslo   -->
 <div>
     <div class="iblock headshotbox " style="height:42px;width:42px">
         <a href="https://gu-clasp.github.io" class="headshotaffiliation">
-            <img src="{{basepath}}/images/CLASP-orange.pdf" style="width:1100%; height:200%">
+            <img src="{{basepath}}/images/CLASP-orange.pdf" style="width:1200%; height:200%">
         </a>
     </div>
 </div>
@@ -171,10 +171,11 @@ Lilja Øvrelid, University of Oslo   -->
 <div>
     <div class="iblock headshotbox " style="height:42px;width:42px">
         <a href="https://www.uu.se" class="headshotaffiliation">
-            <img src="{{basepath}}/images/UU_logo_color.pdf" style="width:100%; height:100%">
+            <img src="{{basepath}}/images/UU_logo_color.pdf" style="width:270%; height:200%">
         </a>
     </div>
 </div>
+<br><br><br>
 
 <div>
     <div class="iblock headshotbox " style="height:42px;width:42px">
