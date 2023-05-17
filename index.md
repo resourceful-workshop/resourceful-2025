@@ -151,7 +151,7 @@ Lilja Øvrelid, University of Oslo   -->
 ## Partner organizers
 
 <div>
-    <div class="iblock headshotbox " style="height:42px;width:42px">
+    <div class="iblock headshotbox " style="height:80px;width:80px">
         <a href="https://www.gu.se/en" class="headshotaffiliation">
             <img src="{{basepath}}/images/U-gothenburg.png" style="width:100%; height:100%">
         </a>
