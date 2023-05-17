@@ -29,6 +29,7 @@ title: RESOURCEFUL-2023
 
 #### If you are presenting a poster
 
+  - You have 1 minute for a lightning talk to pitch your poster (see schedule). Please upload any slides for the lightning talk before May 21st. Read the e-mail sent out to presenters for instructions on uploading.
   - There will be poster boards that can fit posters of **A0** portrait size.
   - __5__ basic walls, posters can be placed on both sides (__10__).
   - __Where can I print the poster in Tórshavn?__
