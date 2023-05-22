@@ -12,6 +12,12 @@ Co-located with the [24th Nordic Conference on Computational Linguistics](https:
 
 ## News
 
+**Proceedings of the workshop are available here:**
+
+<a id="raw-url" href="https://gunet-my.sharepoint.com/:b:/g/personal/nikolai_ilinykh_gu_se/EQnqaaC_CzxBj8A_XBI7kicBFsSdFHwpaat43TWRlg8R3Q?e=8DwPvO">RESOURCEFUL 2023, Proceedings of the 2nd Workshop</a>
+
+**Soon to be published in ACL!**
+
 **For on-site participants:**
 
   - Location: __University of the Faroe Islands, location at Sjóvinnuhúsið__.
