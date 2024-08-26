@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RESOURCEFUL-2023
+title: RESOURCEFUL-2025
 ---
 {% if jekyll.environment  == "production" %}
         {% assign basepath = "." %}
