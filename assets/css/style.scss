@@ -42,26 +42,27 @@ body{
     padding: 0px 20px 0px 20px;
     color: #2e2d2d;
 }
-.maintopic{
+
+.maintopic {
     display: inline-block;
     text-transform: uppercase;
-    color: #0073e6;
-    padding:0px 0px 3px 0px;
+    color: #FFFFFF;
+    padding: 0px 0px 3px 0px;
     font-size: 2.5em;
-    font-weight: bold; 
-    // border-bottom: 1px solid #251E20; 
+    font-weight: bold;
 }
+
 @media (max-width: 800px) {
     .maintopic { font-size: 1.8em; } 
-}
-.subtopic{
+
+.subtopic {
     padding: 20px 0px 0px 0px;
-    //font-size: 1.3em;
     font-size: 2.5em;
     text-shadow: 1px 1px #50505015;
-    font-weight: medium; 
-    color: #0073e6;
+    font-weight: medium;
+    color: #FFFFFF;
 }
+
 .border{
     border: 2px solid black;
 }
