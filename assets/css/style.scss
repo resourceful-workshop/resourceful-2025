@@ -30,10 +30,14 @@ body{
     display: inline-block;
 }
 
-.headercontent {  
-    height: 100%;
-    color: #0073E6;
+.headercontent {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    color: #FFFFFF;
 }
+
+
+
 
 .centermiddle{
     margin: auto;
