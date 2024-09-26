@@ -3,6 +3,5 @@ description: "Resources and representations for under-resourced languages and do
 basepath: "resourceful-2025/"
 
 navigation:
-- text: Home
-  url: /index.html
-
+  - text: Home
+    url: /index.html
