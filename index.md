@@ -28,12 +28,12 @@ To be announced!
 
 ## Organising team
 
-Špela Arhar Holdt, University of Ljubljana, arhar.spela@gmail.com  
-Micaella Bruton, Uppsala University, micaella.bruton@ling.su.se  
+Špela Arhar Holdt, University of Ljubljana, Spela.ArharHoldt@ff.uni-lj.si  
+Micaella Bruton, Stockholm University, micaella.bruton@ling.su.se  
 Nikolai Ilinykh, CLASP, University of Gothenburg, nikolai.ilinykh@gu.se  
-Crina Madalina Tudor, Uppsala University, crina.tudor@ling.su.se  
+Crina Madalina Tudor, Stockholm University, crina.tudor@ling.su.se  
 Iben Nyholm Debess, The University of the Faroe Islands, IbenND@setur.fo  
-Barbara Scalvini, Leiden University, barbaras@setur.fo  
+Barbara Scalvini, The University of the Faroe Islands, barbaras@setur.fo  
 
 ## Partner organisers
 
@@ -41,5 +41,5 @@ To be announced!
 
 ## Contact
 
-E-mail: resourceful-2025 at listserv dot gu dot se
+E-mail: resourceful at listserv dot gu dot se
 
