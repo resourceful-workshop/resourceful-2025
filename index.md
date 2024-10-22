@@ -31,7 +31,7 @@ To be announced!
 Špela Arhar Holdt, University of Ljubljana, Spela.ArharHoldt@ff.uni-lj.si  
 Micaella Bruton, Stockholm University, micaella.bruton@ling.su.se  
 Nikolai Ilinykh, CLASP, University of Gothenburg, nikolai.ilinykh@gu.se  
-Crina Madalina Tudor, Stockholm University, crina.tudor@ling.su.se  
+Crina Tudor, Stockholm University, crina.tudor@ling.su.se  
 Iben Nyholm Debess, The University of the Faroe Islands, IbenND@setur.fo  
 Barbara Scalvini, The University of the Faroe Islands, barbaras@setur.fo  
 
