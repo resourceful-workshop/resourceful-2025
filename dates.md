@@ -8,6 +8,8 @@ title: RESOURCEFUL-2025
         {% assign basepath = "" %}
         {% endif %}
 
+<br>
+
 <table class="dates" width="100%" style="border-collapse: collapse; width: 100%;">
     <tr> 
         <td style="border: none;">Submission deadline (both papers and abstracts):</td> 
