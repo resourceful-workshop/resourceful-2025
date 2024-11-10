@@ -8,6 +8,7 @@ title: RESOURCEFUL-2025
         {% assign basepath = "" %}
         {% endif %}
 
+Co-located with [the Joint 25th Nordic Conference on Computational Linguistics and 11th Baltic Conference on Human Language Technologies (NoDaLiDa/Baltic-HLT 2025)]([https://www.nodalida2023.fo/home](https://www.nodalida-bhlt2025.eu)), Tallinn, Estonia.
 
 ## Workshop description
 
