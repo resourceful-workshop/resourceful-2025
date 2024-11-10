@@ -37,65 +37,7 @@ We would like to open a forum by bringing together students, researchers, and ex
 * Methods to evaluate and mitigate unwanted biases in linguistic models and data.
 * Creating anonymised and pseudonymised datasets and models
 * Evaluating the role of modern LLMs in the creation of new linguistic resources.
-
-## Submission
-
-We invite submissions of both long (**8** pages) and short papers (**4** pages) with any number of pages for references.
-All submissions must follow the NoDaLida template, available in both LaTeX and MS Word at the official conference website, [link](https://www.nodalida-bhlt2025.eu/call-for-papers#h.v2k63awq0fpe).
-Submissions must be **anonymous** and submitted in the .pdf format through OpenReview.
-
-We also invite submissions of maximum **2-page** extended **non-anonymous** abstracts with any number of pages for references describing work in progress, negative results and opinion pieces.
-The abstracts, which should follow the same formatting templates as the archival track, will be considered by the workshop organisers and the accepted ones will be posted on the workshop website.
-
-Papers of any length related to our theme and already published elsewhere will be considered for acceptance for presentation.
-However, these will not be considered for publication in the proceedings.
-
-OpenReview submission link: available soon.
-
-## Important dates
-
-<table class="dates" width="100%" style="border-collapse: collapse; width: 100%;">
-    <tr> 
-        <td style="border: none;">Submission deadline (both papers and abstracts):</td> 
-        <td style="border: none;">2024-12-09</td> 
-    </tr> 
-    <tr> 
-        <td style="border: none;">Notification of acceptance:</td> 
-        <td style="border: none;">2025-01-20</td> 
-    </tr> 
-    <tr> 
-        <td style="border: none;">Camera-ready:</td> 
-        <td style="border: none;">2025-02-03</td> 
-    </tr> 
-    <tr> 
-        <td style="border: none;">Workshop date:</td> 
-        <td style="border: none;">2025-03-02</td> 
-    </tr> 
-</table>                                                                                                                  
-
-All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").
-
-## Organising team
-
-Špela Arhar Holdt, University of Ljubljana, Slovenia  
-Nikolai Ilinykh, CLASP, University of Gothenburg, Sweden  
-Barbara Scalvini, University of the Faroe Islands, Faroe Islands  
-
-Mattias Appelgren, University of Gothenburg, Sweden  
-Micaella Bruton, Stockholm University, Sweden  
-Dana Dannélls, Språkbanken Text, University of Gothenburg, Sweden  
-Simon Dobnik, CLASP, University of Gothenburg, Sweden  
-Crina Tudor, Stockholm University, Sweden  
-Beáta Megyesi, Stockholm University, Sweden  
-Joakim Nivre, RISE and Uppsala University, Sweden  
-Iben Nyholm Debess, University of the Faroe Islands, Faroe Islands  
-Sara Stymne, Uppsala University, Sweden  
-Jörg Tiedemann, University of Helsinki, Finland  
-Lilja Øvrelid, University of Oslo, Norway  
-
-## Partner organisers
-
-To be announced!
+* 
 
 ## Contact
 
