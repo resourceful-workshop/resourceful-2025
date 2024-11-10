@@ -5,3 +5,12 @@ basepath: "resourceful-2025/"
 navigation:
   - text: Home
     url: /index.html
+  - text: Important dates
+    url: /dates.html
+  - text: Submission details
+    url: /submission_details.html
+  - text: Invited Speakers
+    url: /invited_speakers.html
+  - text: Organising team
+    url: /organising_team.html
+
