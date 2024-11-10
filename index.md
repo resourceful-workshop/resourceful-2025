@@ -49,24 +49,24 @@ OpenReview submission link: available soon.
 
 ## Important dates
 
-<table class="dates" width="100%" style="border:0px solid white; width:100%;">
-    <tr style="border: 0px;"> 
-        <td>Submission deadline (both papers and abstracts):</td> 
-        <td>2024-12-09</td> 
+<table class="dates" width="100%" style="border-collapse: collapse; width: 100%;">
+    <tr> 
+        <td style="border: none;">Submission deadline (both papers and abstracts):</td> 
+        <td style="border: none;">2024-12-09</td> 
     </tr> 
-    <tr style="border: 0px;"> 
-        <td>Notification of acceptance:</td> 
-        <td>2025-01-20</td> 
+    <tr> 
+        <td style="border: none;">Notification of acceptance:</td> 
+        <td style="border: none;">2025-01-20</td> 
     </tr> 
-    <tr style="border: 0px;"> 
-        <td>Camera-ready:</td> 
-        <td>2025-02-03</td> 
+    <tr> 
+        <td style="border: none;">Camera-ready:</td> 
+        <td style="border: none;">2025-02-03</td> 
     </tr> 
-    <tr style="border: 0px;"> 
-        <td>Workshop date:</td> 
-        <td>2025-03-02</td> 
+    <tr> 
+        <td style="border: none;">Workshop date:</td> 
+        <td style="border: none;">2025-03-02</td> 
     </tr> 
-</table>                                                                                                                   
+</table>                                                                                                                  
 
 All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").
 
