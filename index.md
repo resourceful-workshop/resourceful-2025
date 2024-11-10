@@ -9,8 +9,6 @@ title: RESOURCEFUL-2025
         {% endif %}
 
 
-
-
 ## Workshop description
 
 The workshop is a continuation of the workshop series [RESOURCEFUL](https://resourceful-workshop.github.io), focusing on RESOURCEs and representations For Under-resourced Languages. The main goal of the workshop is to continue exploring the role of the type and quality of resources that are available to computational linguists as well as challenges and directions for constructing new resources in light of the latest trends in natural language processing, computational linguistics and artificial intelligence.
@@ -52,19 +50,19 @@ OpenReview submission link: available soon.
 ## Important dates
 
 <table class="dates" width="100%" style="border:0px solid white; width:100%;">
-    <tr> 
+    <tr style="border: 0px;"> 
         <td>Submission deadline (both papers and abstracts):</td> 
         <td>2024-12-09</td> 
     </tr> 
-    <tr> 
+    <tr style="border: 0px;"> 
         <td>Notification of acceptance:</td> 
         <td>2025-01-20</td> 
     </tr> 
-    <tr> 
+    <tr style="border: 0px;"> 
         <td>Camera-ready:</td> 
         <td>2025-02-03</td> 
     </tr> 
-    <tr> 
+    <tr style="border: 0px;"> 
         <td>Workshop date:</td> 
         <td>2025-03-02</td> 
     </tr> 
