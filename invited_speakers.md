@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RESOURCEFUL-2023
+title: RESOURCEFUL-2025
 ---
 {% if jekyll.environment  == "production" %}
         {% assign basepath = "." %}
@@ -8,9 +8,9 @@ title: RESOURCEFUL-2023
         {% assign basepath = "" %}
         {% endif %}
 
+To be announced!
 
-## Speakers
-
+<!--
 <div>
     <div class="iblock headshot-invited-speaker">
         <img src="{{basepath}}/images/speakers/Tiedemann.jpg" class="headshot">
@@ -44,3 +44,4 @@ Darja Fišer is Executive Director of CLARIN. She has a background in corpus lin
 
  Advances in digitization and datafication have been transformative for linguistics and other disciplines that work with language materials. This has increased the need for research infrastructures that supports the development, documentation, archiving, dissemination, reuse and citation of language resources and tools which is prerequisite for verifiable and reproducible research. In this talk I will present the recent achievements and ongoing work of the CLARIN research infrastructure which is based on the Open Science paradigm and FAIR data principles. It provides easy and sustainable access to digital language data and offers advanced tools to discover, explore, annotate, analyse, and combine such datasets, wherever they are located. This is enabled through a networked federation of centres: language data repositories, service centres, and knowledge centres with single sign-on access for all members of the academic community in all participating countries. Tools, data and metadata from different centres are interoperable so that data collections can be combined and tools from different sources can be chained to perform operations at different levels of complexity. 
 
+-->
