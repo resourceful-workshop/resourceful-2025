@@ -29,4 +29,6 @@ title: RESOURCEFUL-2025
     </tr> 
 </table>     
 
+<br>
+
 All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").
