@@ -36,8 +36,7 @@ We would like to open a forum by bringing together students, researchers, and ex
 * Crowdsourcing and citizen science initiatives to build and enrich linguistic resources.
 * Methods to evaluate and mitigate unwanted biases in linguistic models and data.
 * Creating anonymised and pseudonymised datasets and models
-* Evaluating the role of modern LLMs in the creation of new linguistic resources.
-* 
+* Evaluating the role of modern LLMs in the creation of new linguistic resources.  
 
 ## Contact
 
