@@ -8,7 +8,9 @@ title: RESOURCEFUL-2025
         {% assign basepath = "" %}
         {% endif %}
 
-Beáta Megyesi, Stockholm University
+Beáta Megyesi, Stockholm University  
+
+Jussi Karlgren
 
 More speakers to be announced!
 
