@@ -11,7 +11,7 @@ title: RESOURCEFUL-2025
 To submit a paper, please visit the following [OpenReview submission link](https://openreview.net/group?id=NoDaLiDa/Baltic-HLT/2025/Workshop/RESOURCEFUL).
 
 We invite submissions of both long (**8** pages) and short papers (**4** pages) with any number of pages for references.
-All submissions must follow the NoDaLida template, available in both LaTeX and MS Word at the official conference website, [link](https://www.nodalida-bhlt2025.eu/call-for-papers#h.v2k63awq0fpe).
+All submissions must follow the NoDaLida template, available in both LaTeX and MS Word at the official conference website, [link](https://www.nodalida-bhlt2025.eu/accepted-papers/call-for-papers#h.v2k63awq0fpe).
 Submissions must be **anonymous** and submitted in the .pdf format through OpenReview.
 We do not allow appendices that go beyond the 8-page limit. We do allow a section on limitations to exceed the page limit.
 
