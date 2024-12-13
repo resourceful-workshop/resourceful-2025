@@ -18,5 +18,8 @@ We do not allow appendices that go beyond the 8-page limit. We do allow a sectio
 We also invite submissions of maximum **2-page** extended **non-anonymous** abstracts with any number of pages for references describing work in progress, negative results and opinion pieces.
 The abstracts, which should follow the same formatting templates as the archival track, will be considered by the workshop organisers and the accepted ones will be posted on the workshop website.
 
+We offer the option to submit papers that have undergone the review process at NoDaLiDa Baltic-HLT 2025 including their reviews and meta-review.
+If you are submitting a paper along with reviews and a meta-review from NoDaLiDa Baltic-HLT 2025, you are also required to submit a short letter (maximum of 2 pages) containing the authors' comments addressing the reviews from the main conference.
+
 Papers of any length related to our theme and already published elsewhere will be considered for acceptance for presentation.
 However, these will not be considered for publication in the proceedings.
