@@ -19,11 +19,15 @@ title: RESOURCEFUL-2025
     </tr> 
     <tr> 
         <td style="border: none;">Notification of acceptance:</td> 
-        <td style="border: none;">2025-01-20</td> 
+        <td style="border: none;">
+            <span style="text-decoration: line-through;">2025-01-20</span> &nbsp; 2025-01-28
+        </td>
     </tr> 
     <tr> 
         <td style="border: none;">Camera-ready:</td> 
-        <td style="border: none;">2025-02-03</td> 
+        <td style="border: none;">
+            <span style="text-decoration: line-through;">2025-02-03</span> &nbsp; 2025-02-05
+        </td>
     </tr> 
     <tr> 
         <td style="border: none;">Workshop date:</td> 
