@@ -12,7 +12,7 @@ title: RESOURCEFUL-2025
 <div>
     <div class="iblock headshot-invited-speaker">
         <img src="{{basepath}}/images/speakers/Megyesi.jpg" class="headshot">
-        <a href="[https://blogs.helsinki.fi/tiedeman/](https://www.su.se/english/profiles/beba5639-1.468162?open-collapse-boxes=body-research)" class="headshotaffiliation"> Beáta Megyesi </a>
+                <a href="https://www.su.se/english/profiles/beba5639-1.468162?open-collapse-boxes=body-research" class="headshotaffiliation"> Beáta Megyesi </a>
         <div class="headshotname"> Stockholm University </div>
     </div>
 </div>
