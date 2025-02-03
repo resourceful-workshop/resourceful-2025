@@ -17,6 +17,8 @@ title: RESOURCEFUL-2025
     </div>
 </div>
 
+<br>
+
 **Bio**
 Beáta Megyesi is a Professor of Computational Linguistics at Stockholm University. She completed her studies at Stockholm University and earned her doctorate from the Royal Institute of Technology in 2002. In 2003, she joined Uppsala University, where she advanced from assistant professor to full professor by 2021. Over the course of her academic career, she has published more than 100 publications and secured nearly 100 million SEK in external funding. She has served as Chair of the Swedish Research Council's Linguistics Review Panel, President of the Northern European Association for Language Technology, and Head of the Department of Linguistics and Philology at Uppsala University. She is currently the Principal Investigator of the DECRYPT project (2018–2025) on historical cryptology financed by the Swedish research Council and leads the DESCRYPT: Echoes of History Analysis and Decipherment of Historical Writings program funded by Riksbankens Jubileumsfond (2025–2032).
 
