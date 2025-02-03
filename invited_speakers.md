@@ -8,6 +8,7 @@ title: RESOURCEFUL-2025
         {% assign basepath = "" %}
 {% endif %}
 
+<hr>
 
 <br>
 
@@ -20,8 +21,6 @@ title: RESOURCEFUL-2025
 </div>
 
 <br>
-
-<hr>
 
 **Bio**  
 <div style="text-align: justify;">
