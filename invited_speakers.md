@@ -8,6 +8,9 @@ title: RESOURCEFUL-2025
         {% assign basepath = "" %}
 {% endif %}
 
+
+<br>
+
 <div>
     <div class="iblock headshot-invited-speaker">
         <img src="{{basepath}}/images/speakers/Megyesi.jpg" class="headshot">
@@ -40,7 +43,6 @@ In this talk, I will explore the inherent complexities of working with rare scri
 
 <div>
     <div class="iblock headshot-invited-speaker">
-        <img src="#" class="headshot">
         <a href="#" class="headshotaffiliation"> Jussi Karlgren </a>
     </div>
 </div>
@@ -60,7 +62,6 @@ In this talk, I will explore the inherent complexities of working with rare scri
 
 <div>
     <div class="iblock headshot-invited-speaker">
-        <img src="#" class="headshot">
         <a href="#" class="headshotaffiliation"> Joshua Wilbur </a>
     </div>
 </div>
