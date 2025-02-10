@@ -62,6 +62,7 @@ In this talk, I will explore the inherent complexities of working with rare scri
 <div>
     <div class="iblock headshot-invited-speaker">
         <a href="#" class="headshotaffiliation"> Joshua Wilbur </a>
+        <div class="headshotname"> University of Tartu </div>
     </div>
 </div>
 
