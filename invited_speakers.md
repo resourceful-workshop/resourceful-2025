@@ -68,8 +68,13 @@ In this talk, I will explore the inherent complexities of working with rare scri
 <br>
 
 **Bio**  
-*(To be added soon.)*
+<div style="text-align: justify;">
+Joshua Wilbur works at the Center for Digital Humanities at the Institute of Estonian and General Linguistics at the University of Tartu. He holds a PhD in general linguistics and published a Grammar of Pite Saami based on his documentation corpus in 2014. In the context of a postdoc project at the University of Freiburg, he began working with the Giellatekno Research group for Saami Language Technology in 2016 to implement an NLP infrastructure for Pite Saami, including automatically annotating his spoken-language documentation corpus. He also published a (paper) dictionary of Pite Saami and continues to develop and maintain online digital lexical resources for Pite Saami. After 3 years as Visiting Lecturer in Digital Humanities, he begin his current position as Lecturer in Digital Linguistics in 2023. Joshua is the National Coordinator for CLARIN ERIC in Estonia and the Chair of the Pite Saami Standardization Committee.
+</div>
 
 <br>
 
-**Talk: To be announced**  
+**Talk: Digitizing Pite Saami: Making the most of limited resources**  
+<div style="text-align: justify;">
+Pite Saami is a critically endangered Uralic language spoken by only a few dozen individuals originating from areas in and around Arjeplog in Swedish Lapland. Due to the exceptionally small number of native speakers, a very limited amount of language data is available; nonetheless, there is a surprisingly diverse set of language resources available, both in digital and in analogue form. In this talk, I will explore the perhaps extraordinary state of Pite Saami language data and digital tools, including how this came about, what potential the data holds in the context of current technological advances, and the challenges involved in this. In doing so, I hope to provide a starting point for a discussion on both the realities and realistic prospects of developing NLP for seriously under-resourced languages. 
+</div>
