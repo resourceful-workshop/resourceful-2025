@@ -9,8 +9,14 @@ navigation:
     url: /dates.html
   - text: Submission details
     url: /submission_details.html
+  - text: Workshop schedule
+    url: /schedule.html
+  - text: Accepted papers
+    url: /papers.html
   - text: Invited Speakers
     url: /invited_speakers.html
+  - text: Presentation details
+    url: /presentations.html
   - text: Organisation
     url: /organisation.html
 

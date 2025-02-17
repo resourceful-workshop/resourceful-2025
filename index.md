@@ -11,7 +11,8 @@ title: RESOURCEFUL-2025
 Co-located with [the Joint 25th Nordic Conference on Computational Linguistics and 11th Baltic Conference on Human Language Technologies (NoDaLiDa/Baltic-HLT 2025)](https://www.nodalida-bhlt2025.eu), Tallinn, Estonia.
 
 ## News
-[First CfP](https://www.aclweb.org/portal/content/workshop-resources-and-representations-under-resourced-languages-and-domains) is out! 
+
+Proceedings are to be published in ACL Anthology. The link will become available closer to the date of the workshop.
 
 
 ## Workshop description
