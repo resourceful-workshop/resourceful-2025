@@ -147,27 +147,15 @@ title: RESOURCEFUL-2025
     Haitian Creole, spoken by millions in Haiti and its diaspora, remains underrepresented in Natural Language Processing (NLP) research, limiting the availability of effective translation tools. In Miami, a significant Haitian Creole-speaking population faces healthcare disparities exacerbated by language barriers. Existing translation systems fail to address key challenges such as linguistic variation within the Creole language, frequent code-switching, and the lack of standardized medical terminology. This work proposes a structured methodology for the development of an AI-assisted translation and interpretation tool tailored for patient-provider communication in a medical setting. To achieve this, we propose a hybrid NLP approach that integrates fine-tuned Large Language Models (LLMs) with traditional machine translation methods. This combination ensures accurate, context-sensitive translation that adapts to both formal medical discourse and conversational registers while maintaining linguistic consistency. Additionally, we discuss data collection strategies, annotation challenges, and evaluation metrics necessary for building an ethically designed, scalable NLP system. By addressing these issues, this research provides a foundation for improving healthcare accessibility and linguistic equity for Haitian Creole speakers.
   </div>
 
-  *  <font size="4"> <b> Interpreting the UAS and the LAS of the parsing of Old English with Universal Dependencies </b> </font>  
+*  <font size="4"> <b> Interpreting the UAS and the LAS of the parsing of Old English with Universal Dependencies </b> </font>  
    <span style="color:gray"> Martin Arista, Javier and Elvira Ojanguren López, Ana and Domínguez Barragán, Sara </span>  
-   <a href="/papers/interpreting-the-uas-and-the-las.pdf" target="_blank">
-     <button>Open Paper</button>
-   </a>
+
+   [Download Paper]({{ basepath }}/papers/interpreting-the-uas-and-the-las.pdf)
+
    <button onclick="toggleAbstract('abstract23')">Show Abstract</button>
    <div id="abstract23" class="abstract" style="display:none;">
-     This paper interprets, from a linguistic point of view, the Unlabelled Attachment Score (UAS) and Labelled Attachment Score (LAS) metrics obtained in the Universal Dependencies parsing of Old English. The study assesses the performance of three distinct training methods based on the Natural Language Processing library spaCy: a baseline pipeline, a pretrained model, and a transformer-based model (MobileBERT). Using datasets ranging from 1,000 to 20,000 words, the best-performing model (pretrained model with 20,000 words) achieved 83.2% UAS and 74.2% LAS. The model performs better at identifying structural relations than at labeling specific dependency relations. There is a consistent 9 point gap between UAS and LAS accross the different structural levels, including the word, the phrase, the clause and the complex sentence. While the model shows high accuracy in morphologically marked local relations and morphological feature recognition (often over 90%), its accuracy is lower with long-distance dependencies and complex syntactic structures. Particularly problematic areas include non-projective dependencies, fixed expressions, copulative constructions, and double object constructions. The conclusion is reached that improving parsing accuracy will require larger training datasets and a fine-grained analysis of complex syntactic relations that is compatible with the strong performance reached in morphological feature recognition.
+     This paper interprets, from a linguistic point of view, the Unlabelled Attachment Score (UAS) and Labelled Attachment Score (LAS) metrics obtained in the Universal Dependencies parsing of Old English. The study assesses the performance of three distinct training methods based on the Natural Language Processing library spaCy: a baseline pipeline, a pretrained model, and a transformer-based model (MobileBERT). Using datasets ranging from 1,000 to 20,000 words, the best-performing model (pretrained model with 20,000 words) achieved 83.2% UAS and 74.2% LAS. The model performs better at identifying structural relations than at labeling specific dependency relations. There is a consistent 9 point gap between UAS and LAS across the different structural levels, including the word, the phrase, the clause, and the complex sentence. While the model shows high accuracy in morphologically marked local relations and morphological feature recognition (often over 90%), its accuracy is lower with long-distance dependencies and complex syntactic structures. Particularly problematic areas include non-projective dependencies, fixed expressions, copulative constructions, and double object constructions. The conclusion is reached that improving parsing accuracy will require larger training datasets and a fine-grained analysis of complex syntactic relations that is compatible with the strong performance reached in morphological feature recognition.
    </div>
-
-   <script>
-     function toggleAbstract(id) {
-       var abstract = document.getElementById(id);
-       if (abstract.style.display === "none") {
-         abstract.style.display = "block";
-       } else {
-         abstract.style.display = "none";
-       }
-     }
-   </script>
-
 
   *  <font size="4"> <b> Beyond a Means to an End: A Case Study in Building Phonotactic Corpora for Central Australian Languages </b> </font>  
   <span style="color:gray"> Muradoglu, Saliha and Gray, James and Simpson, Jane Helen and Proctor, Michael and Harvey, Mark </span>  
