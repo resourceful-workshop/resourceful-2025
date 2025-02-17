@@ -22,11 +22,6 @@ title: RESOURCEFUL-2025
   <button onclick="toggleAbstract('abstract2')">Show Abstract</button>
   <div id="abstract2" class="abstract" style="display:none;">We present FoQA, a Faroese extractive question-answering (QA) dataset with 2,000 samples, created using a semi-automated approach combining Large Language Models (LLMs) and human validation. The dataset was generated from Faroese Wikipedia articles using GPT-4-turbo for initial QA generation, followed by question rephrasing to increase complexity and native speaker validation to ensure quality. We provide baseline performance metrics for FoQA across multiple models, including LLMs and BERT, demonstrating its effectiveness in evaluating Faroese QA performance. The dataset is released in three versions: a validated set of 2,000 samples, a complete set of all 10,001 generated samples, and a set of 2,395 rejected samples for error analysis.</div>
 
-  *  <font size="4"> <b> WikiQA-IS: Assisted Benchmark Generation and Automated Evaluation of Icelandic Cultural Knowledge in LLMs </b> </font>  
-  <span style="color:gray"> Arnardóttir, Þórunn and Bjartur Einarsson, Elías and Ingvarsson Juto, Garðar and Páll Helgason, Þorvaldur and Einarsson, Hafsteinn </span>  
-  <button onclick="toggleAbstract('abstract3')">Show Abstract</button>
-  <div id="abstract3" class="abstract" style="display:none;">This paper presents WikiQA-IS, a novel question-answering dataset focusing on Icelandic culture and history, along with an automated pipeline for dataset generation and evaluation. Leveraging GPT-4 to create questions and answers based on Icelandic Wikipedia articles and news sources, we produced a high-quality corpus of 2,000 question-answer pairs. We introduce an automatic evaluation method using GPT-4o as a judge, which shows strong agreement with human evaluations. Our benchmark reveals varying performances across different language models, with closed-source models generally outperforming open-weights alternatives. This work contributes a resource for evaluating language models' knowledge of Icelandic culture and offers a replicable framework for creating similar datasets in other cultural contexts.</div>
-
   *  <font size="4"> <b> Annotating Attitude in Swedish Political Tweets </b> </font>  
   <span style="color:gray"> Lindahl, Anna </span>  
   <button onclick="toggleAbstract('abstract4')">Show Abstract</button>
@@ -62,6 +57,11 @@ title: RESOURCEFUL-2025
 
 
 ## Posters
+
+  *  <font size="4"> <b> WikiQA-IS: Assisted Benchmark Generation and Automated Evaluation of Icelandic Cultural Knowledge in LLMs </b> </font>  
+  <span style="color:gray"> Arnardóttir, Þórunn and Bjartur Einarsson, Elías and Ingvarsson Juto, Garðar and Páll Helgason, Þorvaldur and Einarsson, Hafsteinn </span>  
+  <button onclick="toggleAbstract('abstract3')">Show Abstract</button>
+  <div id="abstract3" class="abstract" style="display:none;">This paper presents WikiQA-IS, a novel question-answering dataset focusing on Icelandic culture and history, along with an automated pipeline for dataset generation and evaluation. Leveraging GPT-4 to create questions and answers based on Icelandic Wikipedia articles and news sources, we produced a high-quality corpus of 2,000 question-answer pairs. We introduce an automatic evaluation method using GPT-4o as a judge, which shows strong agreement with human evaluations. Our benchmark reveals varying performances across different language models, with closed-source models generally outperforming open-weights alternatives. This work contributes a resource for evaluating language models' knowledge of Icelandic culture and offers a replicable framework for creating similar datasets in other cultural contexts.</div>
 
   *  <font size="4"> <b> Universal Dependencies Treebank for Uzbek </b> </font>  
   <span style="color:gray"> Akhundjanova, Arofat and Talamo, Luigi </span>  
