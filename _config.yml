@@ -5,7 +5,7 @@ basepath: "resourceful-2025/"
 navigation:
   - text: Home
     url: /index.html
-  - text: Workshop schedule
+  - text: Workshop programme
     url: /schedule.html
   - text: Accepted papers
     url: /papers.html
