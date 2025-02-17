@@ -19,13 +19,13 @@ Micaella Bruton, Stockholm University, Sweden
 Dana Dannélls, Språkbanken Text, University of Gothenburg, Sweden  
 Simon Dobnik, CLASP, University of Gothenburg, Sweden  
 Crina Tudor, Stockholm University, Sweden  
-Beáta Megyesi, Stockholm University, Sweden  
 Joakim Nivre, RISE and Uppsala University, Sweden  
 Iben Nyholm Debess, University of the Faroe Islands, Faroe Islands  
 Sara Stymne, Uppsala University, Sweden  
 Jörg Tiedemann, University of Helsinki, Finland  
 Lilja Øvrelid, University of Oslo, Norway  
 
-## Partner organisers
+## Acknowledgements
 
-To be announced!
+The organisation of the workshop has been supported by Språkbanken – jointly funded by its 10 partner institutions and the Swedish Research Council (2025–2028; grant no. 2023-00161). It has also been supported by HUMINFRA with funding from the Swedish Research Council (grant no. 2023-00171).
+
