@@ -5,10 +5,6 @@ basepath: "resourceful-2025/"
 navigation:
   - text: Home
     url: /index.html
-  - text: Important dates
-    url: /dates.html
-  - text: Submission details
-    url: /submission_details.html
   - text: Workshop schedule
     url: /schedule.html
   - text: Accepted papers
@@ -19,4 +15,7 @@ navigation:
     url: /presentations.html
   - text: Organisation
     url: /organisation.html
-
+  - text: Important dates
+    url: /dates.html
+  - text: Submission details
+    url: /submission_details.html
