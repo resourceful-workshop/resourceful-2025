@@ -8,7 +8,7 @@ title: RESOURCEFUL-2025
         {% assign basepath = "" %}
         {% endif %}
 
-# Accepted papers (in random order)
+# Accepted materials (archival, non-archival papers and abstracts) (in random order)
 
 ## Talks
 
@@ -162,6 +162,22 @@ title: RESOURCEFUL-2025
   <button onclick="toggleAbstract('abstract24')">Show Abstract</button>
   <div id="abstract24" class="abstract" style="display:none;">
     Linguistic datasets are essential across fields: computational linguists use them for NLP development, theoretical linguists for statistical arguments supporting hypotheses about language, and documentary linguists for preserving examples and aiding grammatical descriptions. Transforming raw data (e.g., recordings or dictionaries) into structured forms (e.g., tables) requires non-trivial decisions within processing pipelines. This paper highlights the importance of these processes in understanding linguistic systems. Our contributions include: (1) an interactive dashboard for four central Australian languages with custom filters, and (2) demonstrating how data processing decisions influence measured outcomes.
+  </div>
+
+  *  <font size="4"> <b> Investigating Gender Bias for Turkish in Multilingual LLMs </b> </font>  
+  <span style="color:gray">Özçelik, Irem and Kurfali, Murathan </span>  
+     [Download Paper]({{ basepath }}/papers/investigating-gender-bias-for-turkish.pdf)
+  <button onclick="toggleAbstract('abstract25')">Show Abstract</button>
+  <div id="abstract25" class="abstract" style="display:none;">
+    In this study, we examine patterns of gender bias in Large Language Models (LLMs) for Turkish by comparing models of different sizes and architectures. To capture subtle forms of bias, including the double bind effect, we created a culturally relevant dataset consisting of professions, personal traits, and their combinations. Our findings reveal that gender bias persists across the models, although variations in bias patterns suggest ongoing efforts to mitigate it.
+  </div>
+
+  *  <font size="4"> <b> Towards an acoustically-validated phonetic corpus of spoken Swedish </b> </font>  
+  <span style="color:gray">O'Regan, Jim and Edlund, Jens </span>  
+     [Download Paper]({{ basepath }}/papers/towards-an-acoustically-validated-phonetic.pdf)
+  <button onclick="toggleAbstract('abstract26')">Show Abstract</button>
+  <div id="abstract26" class="abstract" style="display:none;">
+    In this document, we describe ongoing work towards the creation of a phonetically transcribed corpus of spoken Swedish, with aims towards creating a pronunciation dictionary that takes into account dialectal variation. Using speeches from the Swedish Riksdag (Parliament), we use the output of a phonetic recognition system to validate pronunciations for a variety of Swedish dialects.
   </div>
 
 <script>
