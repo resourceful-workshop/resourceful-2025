@@ -10,8 +10,6 @@ title: RESOURCEFUL-2025
 
 <hr>
 
-<br>
-
 <div>
     <div class="iblock headshot-invited-speaker">
         <img src="{{basepath}}/images/speakers/Megyesi.jpg" class="headshot">
@@ -26,8 +24,6 @@ title: RESOURCEFUL-2025
 <div style="text-align: justify;">
 Beáta Megyesi is a Professor of Computational Linguistics at Stockholm University. She completed her studies at Stockholm University and earned her doctorate from the Royal Institute of Technology in 2002. In 2003, she joined Uppsala University, where she advanced from assistant professor to full professor by 2021. Over the course of her academic career, she has published more than 100 publications and secured nearly 100 million SEK in external funding. She has served as Chair of the Swedish Research Council's Linguistics Review Panel, President of the Northern European Association for Language Technology, and Head of the Department of Linguistics and Philology at Uppsala University. She is currently the Principal Investigator of the DECRYPT project (2018–2025) on historical cryptology financed by the Swedish Research Council and leads the DESCRYPT: Echoes of History Analysis and Decipherment of Historical Writings program funded by Riksbankens Jubileumsfond (2025–2032).
 </div>
-
-<br>
 
 **Talk: Unlocking Hidden Histories: AI and Expert Collaboration in Deciphering Rare Scripts**  
 <div style="text-align: justify;">
@@ -57,7 +53,6 @@ In this talk, I will explore the inherent complexities of working with rare scri
 Jussi Karlgren is an industrial researcher in language technology and AI and a docent of language technology at University of Helsinki. He works with language models at Silo AI, a part of AMD and is an advisor and board member at many companies and public organisations. Currently, he is engaged in quality assessment of generative language models through the ELOQUENT shared task lab and in OpenEuroLLM and DeployAI projects.
 </div>
 
-<br>
 
 **Talk: What are the most sustainable and valuable resources that language technologists should develop for training language models?**  
 <div style="text-align: justify;">
@@ -83,7 +78,6 @@ The current generation of generative language models exhibits impressive behavio
 Joshua Wilbur works at the Center for Digital Humanities at the Institute of Estonian and General Linguistics at the University of Tartu. He holds a PhD in general linguistics and published a Grammar of Pite Saami based on his documentation corpus in 2014. In the context of a postdoc project at the University of Freiburg, he began working with the Giellatekno Research group for Saami Language Technology in 2016 to implement an NLP infrastructure for Pite Saami, including automatically annotating his spoken-language documentation corpus. He also published a (paper) dictionary of Pite Saami and continues to develop and maintain online digital lexical resources for Pite Saami. After 3 years as Visiting Lecturer in Digital Humanities, he begin his current position as Lecturer in Digital Linguistics in 2023. Joshua is the National Coordinator for CLARIN ERIC in Estonia and the Chair of the Pite Saami Standardization Committee.
 </div>
 
-<br>
 
 **Talk: Digitizing Pite Saami: Making the most of limited resources**  
 <div style="text-align: justify;">
