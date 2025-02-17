@@ -8,7 +8,7 @@ title: RESOURCEFUL-2025
         {% assign basepath = "" %}
         {% endif %}
 
-# Accepted materials (archival, non-archival papers and abstracts) (in random order)
+# Accepted materials (archival and non-archival papers, abstracts; the order is random)
 
 ## Talks
 
@@ -149,9 +149,7 @@ title: RESOURCEFUL-2025
 
 *  <font size="4"> <b> Interpreting the UAS and the LAS of the parsing of Old English with Universal Dependencies </b> </font>  
    <span style="color:gray"> Martin Arista, Javier and Elvira Ojanguren López, Ana and Domínguez Barragán, Sara </span>  
-
    [Download Paper]({{ basepath }}/papers/interpreting-the-uas-and-the-las.pdf)
-
    <button onclick="toggleAbstract('abstract23')">Show Abstract</button>
    <div id="abstract23" class="abstract" style="display:none;">
      This paper interprets, from a linguistic point of view, the Unlabelled Attachment Score (UAS) and Labelled Attachment Score (LAS) metrics obtained in the Universal Dependencies parsing of Old English. The study assesses the performance of three distinct training methods based on the Natural Language Processing library spaCy: a baseline pipeline, a pretrained model, and a transformer-based model (MobileBERT). Using datasets ranging from 1,000 to 20,000 words, the best-performing model (pretrained model with 20,000 words) achieved 83.2% UAS and 74.2% LAS. The model performs better at identifying structural relations than at labeling specific dependency relations. There is a consistent 9 point gap between UAS and LAS across the different structural levels, including the word, the phrase, the clause, and the complex sentence. While the model shows high accuracy in morphologically marked local relations and morphological feature recognition (often over 90%), its accuracy is lower with long-distance dependencies and complex syntactic structures. Particularly problematic areas include non-projective dependencies, fixed expressions, copulative constructions, and double object constructions. The conclusion is reached that improving parsing accuracy will require larger training datasets and a fine-grained analysis of complex syntactic relations that is compatible with the strong performance reached in morphological feature recognition.
