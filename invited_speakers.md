@@ -40,20 +40,29 @@ In this talk, I will explore the inherent complexities of working with rare scri
 
 <hr>
 
+
 <div>
     <div class="iblock headshot-invited-speaker">
-        <a href="#" class="headshotaffiliation"> Jussi Karlgren </a>
+        <img src="{{basepath}}/images/speakers/Karlgren.jpg" class="headshot">
+        <a href="https://www.lingvi.st" class="headshotaffiliation"> Jussi Karlgren </a>
+        <div class="headshotname"> Free researcher </div>
     </div>
+</div>
+
+
+<br>
+
+**Bio**
+<div style="text-align: justify;">
+Jussi Karlgren is an industrial researcher in language technology and AI and a docent of language technology at University of Helsinki. He works with language models at Silo AI, a part of AMD and is an advisor and board member at many companies and public organisations. Currently, he is engaged in quality assessment of generative language models through the ELOQUENT shared task lab and in OpenEuroLLM and DeployAI projects.
 </div>
 
 <br>
 
-**Bio**  
-*(To be added soon.)*
-
-<br>
-
-**Talk: To be announced**  
+**Talk: What are the most sustainable and valuable resources that language technologists should develop for training language models?**  
+<div style="text-align: justify;">
+The current generation of generative language models exhibits impressive behaviour in many language processing tasks, thanks to their capacity to estimate a probability distribution over linguistic elements by observing linguistic data. These successes have been achieved through training models on very large data sets, which may be difficult to establish for languages with less digital footprint than the largest ones. There will be new architectures, memory models, and processes to train models as technical development advances, and the amount of data needed to train models is likely to change in the near future making it possible to train models at less cost. What resources should language technology research focus on to address the likely needs of future generations of representations?
+</div>
 
 <br>
 
@@ -61,7 +70,8 @@ In this talk, I will explore the inherent complexities of working with rare scri
 
 <div>
     <div class="iblock headshot-invited-speaker">
-        <a href="#" class="headshotaffiliation"> Joshua Wilbur </a>
+        <img src="{{basepath}}/images/speakers/Wilbur.jpg" class="headshot">
+        <a href="https://ut.ee/en/employee/joshua-wilbur" class="headshotaffiliation"> Joshua Wilbur </a>
         <div class="headshotname"> University of Tartu </div>
     </div>
 </div>
