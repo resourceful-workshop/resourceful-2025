@@ -34,7 +34,7 @@ The workshop will take place on **March 2nd, 2025**.
 
 **14:40 - 15:50** Poster session (incl. coffee break)
 
-**15:50 - 16:50** Panel discussion
+**15:50 - 16:50** Panel discussion with Jussi Karlgren, Joshua Wilbur, Danila Petrelli, Hafsteinn Einarsson
 
 **16:50 - 17:00** Closing
 
