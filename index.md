@@ -14,11 +14,8 @@ Co-located with [the Joint 25th Nordic Conference on Computational Linguistics a
 
 We can issue a certificate of attendance and/or a certificate of presentation for RESOURCEFUL 2025 upon request. If you need one, please email resourceful [at] listserv [dot] gu [dot] se. In your email subject, specify either "RESOURCEFUL 2025 – Certificate of Attendance Request" or "RESOURCEFUL 2025 – Certificate of Presentation Request". Additionally, include the names of the authors, the title(s) of the paper(s), and the presentation mode in your email. Describe any additional requests in your email. For certificates of attendance or presentation for NoDaLiDa 2025, please contact the local organisers of NoDaLiDa 2025.
 
-
-## News
-
-Proceedings are to be published in ACL Anthology. The link will become available closer to the date of the workshop.
-
+The proceedings are now available in the University of Tartu Library: https://dspace.ut.ee/collections/07b1b4a0-f4ef-4bb7-95c0-5096c8b048dd  
+Proceedings will also be published in the ACL Anthology closer to the date of the workshop.
 
 ## Workshop description
 
