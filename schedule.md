@@ -20,7 +20,7 @@ The workshop will take place on **March 2nd, 2025**.
 
 **9:40 - 10:00** Oral talks I
 
-  *  <font size="4"> <b> The Application of Corpus-Based Language Distance Measurement to the Diatopic Variation Study (on the Material of the Old Novgorodian Birchbark Letters) </b> </font>  
+  * <b> The Application of Corpus-Based Language Distance Measurement to the Diatopic Variation Study (on the Material of the Old Novgorodian Birchbark Letters) </b>  
   <span style="color:gray"> Afanasev, Ilia and Lyashevskaya, Olga </span>  
 
 **10:00 - 10:30** Coffee break
