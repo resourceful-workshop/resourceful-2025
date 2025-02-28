@@ -12,6 +12,23 @@ Co-located with [the Joint 25th Nordic Conference on Computational Linguistics a
 
 ## Important information for participants (to be continuously updated)
 
+Room name: LÄÄNE-EUROOPA
+https://www.hestiahotels.com/europa/en/conference/ruum/
+
+Poster Session Location: 1st floor, Lobby Area near the Registration Desk.
+* Posters can be mounted starting early morning on March 2. There are mounting materials provided. Poster stands have a workshop name on them, feel free to place your poster on any stand with RESOURCEFUL as a name.
+* Posters should be removed by the end of the day on March 2.
+
+Registration is open right at the lobby of the venue.
+
+Some lunch options:
+* Lunch is not provided on the workshop days
+* The conference venue has a restaurant, that possibly has a soup buffet; there is also a general menue (but it could get too crowded and slow)
+* [Rotermanni kvartal](https://rotermann.ee/en/eat-shop-experience/) (approximately 250 meters away) has many good restaurants
+* [Vapiano](https://maps.app.goo.gl/ckDSvPUofFZSNdR36)
+* [Nautica](https://maps.app.goo.gl/4X2aKqXCGLcZ6coM7) shopping centre (approximately 50 meters away)
+* Port area: [Resturant Armudu](https://maps.app.goo.gl/ZS4aJJmPhQqJQhCT8), [Kochi Aidad](https://maps.app.goo.gl/HBwFQEFNTFhhZ7Wt5), etc.
+
 We can issue a certificate of attendance and/or a certificate of presentation for RESOURCEFUL 2025 upon request. If you need one, please email resourceful [at] listserv [dot] gu [dot] se. In your email subject, specify either "RESOURCEFUL 2025 – Certificate of Attendance Request" or "RESOURCEFUL 2025 – Certificate of Presentation Request". Additionally, include the names of the authors, the title(s) of the paper(s), and the presentation mode in your email. Describe any additional requests in your email. For certificates of attendance or presentation for NoDaLiDa 2025, please contact the local organisers of NoDaLiDa 2025.
 
 The proceedings are now available in the University of Tartu Library, and [they can be accessed here](https://dspace.ut.ee/collections/07b1b4a0-f4ef-4bb7-95c0-5096c8b048dd)
