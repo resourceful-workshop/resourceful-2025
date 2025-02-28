@@ -27,7 +27,7 @@ The workshop will take place on **March 2nd, 2025**.
 
 **10:30 - 11:00** <b> Keynote II, Joshua Wilbur: Digitizing Pite Saami: Making the most of limited resources </b>
 
-**11:00 - 12:00** Oral talks II
+**11:00 - 12:00** Oral talks II (session chair: Špela Arhar Holdt)
 
 * <b> 11:00 - 11:20: Voices of Luxembourg: Tackling Dialect Diversity in a Low-Resource Setting </b> 
   <span style="color:gray"> Hosseini-Kivanani, Nina and Schommer, Christoph and Gilles, Peter </span>  
