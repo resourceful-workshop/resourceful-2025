@@ -8,7 +8,7 @@ title: RESOURCEFUL-2025
         {% assign basepath = "/resourceful-2025" %}
         {% endif %}
 
-## Preliminary workshop schedule
+## Workshop schedule
 
 The workshop will take place on **March 2nd, 2025**.
 
