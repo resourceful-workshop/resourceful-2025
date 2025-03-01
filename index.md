@@ -12,8 +12,8 @@ Co-located with [the Joint 25th Nordic Conference on Computational Linguistics a
 
 ## Important information for participants (to be continuously updated)
 
-**Room name: LÄÄNE-EUROOPA**, https://www.hestiahotels.com/europa/en/conference/ruum/  
-**Poster Session Location: 1st floor, Lobby Area near the Registration Desk.**
+**Room name: LÄÄNE-EUROOPA, first floor from the lobby entry**, https://www.hestiahotels.com/europa/en/conference/ruum/  
+**Poster Session Location: 1st floor (ground floor is E floor) from the lobby area near the registration desk.**
 
 * Posters can be mounted starting early morning on March 2. There are mounting materials provided. Poster stands have a workshop name on them, feel free to place your poster on any stand with RESOURCEFUL as a name.
 * Posters should be removed by the end of the day on March 2.
