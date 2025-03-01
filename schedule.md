@@ -12,6 +12,8 @@ title: RESOURCEFUL-2025
 
 The workshop will take place on **March 2nd, 2025**.
 
+IMPORTANT: all times are in Eastern European Standard Time (Tallinn Time) / CET +1. So if you are in Stockholm, the time in Tallinn is Stockholm time + 1 hour.
+
 <hr>
 
 **9:00 - 9:10** Welcome
