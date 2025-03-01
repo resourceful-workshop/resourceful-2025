@@ -10,9 +10,9 @@ title: RESOURCEFUL-2025
 
 ## Workshop schedule
 
-The workshop will take place on **March 2nd, 2025**.
+The workshop will take place on March 2nd, 2025.
 
-IMPORTANT: all times are in Eastern European Standard Time (Tallinn Time) / CET +1. So if you are in Stockholm, the time in Tallinn is Stockholm time + 1 hour.
+**IMPORTANT: all times are in Eastern European Standard Time (Tallinn Time) / CET +1. So if you are in Stockholm, the time in Tallinn is Stockholm time + 1 hour.**
 
 <hr>
 
@@ -34,7 +34,7 @@ IMPORTANT: all times are in Eastern European Standard Time (Tallinn Time) / CET 
 * <b> 11:00 - 11:20: Voices of Luxembourg: Tackling Dialect Diversity in a Low-Resource Setting </b> 
   <span style="color:gray"> Hosseini-Kivanani, Nina and Schommer, Christoph and Gilles, Peter </span>  
  
-* <b> 11:20 - 11:40: Automatic Validation of the Non-Validated Spanish Speech Data of Common Voice 17.0 </b>  
+* <b> 11:20 - 11:40: Automatic Validation of the Non-Validated Spanish Speech Data of Common Voice 17.0 [ONLINE] </b>  
   <span style="color:gray"> Hernández Mena, Carlos Daniel and Scalvini, Barbara and Lág, Dávid í </span>  
  
 * <b> 11:40 - 12:00: OCR Error Post-Correction with LLMs in Historical Documents: No Free Lunches </b>  
@@ -49,7 +49,7 @@ IMPORTANT: all times are in Eastern European Standard Time (Tallinn Time) / CET 
 *  <b> 13:40 - 14:00: FoQA: A Faroese Question-Answering Dataset </b>
   <span style="color:gray"> Simonsen, Annika and Nielsen, Dan Saattrup and Einarsson, Hafsteinn </span>
 
-*  <b> 14:00 - 14:20: Annotating Attitude in Swedish Political Tweets </b> 
+*  <b> 14:00 - 14:20: Annotating Attitude in Swedish Political Tweets [ONLINE] </b> 
   <span style="color:gray"> Lindahl, Anna </span>
 
 * <b> 14:20 - 14:40: Multi-label Scandinavian Language Identification (SLIDE) </b>
