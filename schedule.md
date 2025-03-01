@@ -16,16 +16,16 @@ The workshop will take place on **March 2nd, 2025**.
 
 **9:00 - 9:10** Welcome
 
-**9:10 - 9:40** <b> Keynote I, Beáta Megyesi: Unlocking Hidden Histories: AI and Expert Collaboration in Deciphering Rare Scripts </b>
+**9:10 - 9:40** <b> Keynote I, Beáta Megyesi: Unlocking Hidden Histories: AI and Expert Collaboration in Deciphering Rare Scripts </b> (session chair: Simon Dobnik)
 
 **9:40 - 10:00** Oral talks I
 
   * <b> The Application of Corpus-Based Language Distance Measurement to the Diatopic Variation Study (on the Material of the Old Novgorodian Birchbark Letters) </b>  
-  <span style="color:gray"> Afanasev, Ilia and Lyashevskaya, Olga </span>  
+  <span style="color:gray"> Afanasev, Ilia and Lyashevskaya, Olga </span>  (session chair: Simon Dobnik)
 
 **10:00 - 10:30** Coffee break
 
-**10:30 - 11:00** <b> Keynote II, Joshua Wilbur: Digitizing Pite Saami: Making the most of limited resources </b>
+**10:30 - 11:00** <b> Keynote II, Joshua Wilbur: Digitizing Pite Saami: Making the most of limited resources </b>  (session chair: Jörg Tiedemann)
 
 **11:00 - 12:00** Oral talks II (session chair: Špela Arhar Holdt)
 
@@ -40,9 +40,9 @@ The workshop will take place on **March 2nd, 2025**.
 
 **12:00 - 13:10** Lunch
 
-**13:10 - 13:40** <b> Keynote III, Jussi Karlgren: What are the most sustainable and valuable resources that language technologists should develop for training language models? </b>
+**13:10 - 13:40** <b> Keynote III, Jussi Karlgren: What are the most sustainable and valuable resources that language technologists should develop for training language models? </b>  (session chair: Nikolai Ilinykh)
 
-**13:40 - 14:40** Oral talks III
+**13:40 - 14:40** Oral talks III (session chair: Barbara Scalvini)
 
 *  <b> 13:40 - 14:00: FoQA: A Faroese Question-Answering Dataset </b>
   <span style="color:gray"> Simonsen, Annika and Nielsen, Dan Saattrup and Einarsson, Hafsteinn </span>
@@ -55,7 +55,7 @@ The workshop will take place on **March 2nd, 2025**.
 
 **14:40 - 15:50** Poster session (incl. coffee break)
 
-**15:50 - 16:50** Panel discussion with Jussi Karlgren, Joshua Wilbur, Danila Petrelli, Hafsteinn Einarsson, Beáta Megyesi
+**15:50 - 16:50** Panel discussion with Jussi Karlgren, Joshua Wilbur, Danila Petrelli, Hafsteinn Einarsson, Beáta Megyesi (moderator: Nikolai Ilinykh)
 
 **16:50 - 17:00** Closing
 
