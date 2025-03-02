@@ -31,7 +31,7 @@ The workshop will take place on March 2nd, 2025.
 
 **11:00 - 12:00** Oral talks II (session chair: Špela Arhar Holdt)
 
-* <b> 11:00 - 11:20: Voices of Luxembourg: Tackling Dialect Diversity in a Low-Resource Setting </b> 
+* <b> 11:00 - 11:20: Voices of Luxembourg: Tackling Dialect Diversity in a Low-Resource Setting [ONLINE] </b> 
   <span style="color:gray"> Hosseini-Kivanani, Nina and Schommer, Christoph and Gilles, Peter </span>  
  
 * <b> 11:20 - 11:40: Automatic Validation of the Non-Validated Spanish Speech Data of Common Voice 17.0 [ONLINE] </b>  
