@@ -27,7 +27,7 @@ The workshop will take place on March 2nd, 2025.
 
 **10:00 - 10:30** Coffee break
 
-**10:30 - 11:00** <b> Keynote II, Joshua Wilbur: Digitizing Pite Saami: Making the most of limited resources </b>  (session chair: Jörg Tiedemann)
+**10:30 - 11:00** <b> Keynote II, Joshua Wilbur: Digitizing Pite Saami: Making the most of limited resources </b>  (session chair: Jörg Tiedemann), slides are available [here](./slides/wilbur-keynote.pdf).
 
 **11:00 - 12:00** Oral talks II (session chair: Špela Arhar Holdt)
 
@@ -42,7 +42,7 @@ The workshop will take place on March 2nd, 2025.
 
 **12:00 - 13:10** Lunch
 
-**13:10 - 13:40** <b> Keynote III, Jussi Karlgren: What are the most sustainable and valuable resources that language technologists should develop for training language models? </b>  (session chair: Nikolai Ilinykh)
+**13:10 - 13:40** <b> Keynote III, Jussi Karlgren: What are the most sustainable and valuable resources that language technologists should develop for training language models? </b>  (session chair: Nikolai Ilinykh), slides are available [here](./slides/karlgren-keynote.pdf).
 
 **13:40 - 14:40** Oral talks III (session chair: Barbara Scalvini)
 
