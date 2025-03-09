@@ -12,12 +12,29 @@ title: RESOURCEFUL-2025
 
 ## Talks
 
+mompe
 <iframe 
     src="https://drive.google.com/file/d/1GM7zDRkP1ZUp7x98RCjRPRwL8RPvkX6L/preview" 
     width="640" 
     height="480" 
     allow="autoplay"
 ></iframe>
+
+muradoglu
+<iframe 
+    src="https://drive.google.com/file/d/1tBPM1z4sEL1imTXOQ_gFtlnCaej5iBCN/preview" 
+    width="640" 
+    height="480" 
+    allow="autoplay"
+></iframe>
+
+<iframe 
+    src="https://drive.google.com/file/d/1o1BO4B8dmOESO9sxLLqcLzIxoPubXPOq/preview" 
+    width="640" 
+    height="480" 
+    allow="autoplay"
+></iframe>
+
 
   *  <font size="4"> <b> Automatic Validation of the Non-Validated Spanish Speech Data of Common Voice 17.0 </b> </font>  
   <span style="color:gray"> Hernández Mena, Carlos Daniel and Scalvini, Barbara and Lág, Dávid í </span>  
@@ -146,6 +163,17 @@ title: RESOURCEFUL-2025
   <div id="abstract21" class="abstract" style="display:none;">
     We expand the second language (L2) Korean Universal Dependencies (UD) treebank with 5,454 manually annotated sentences. The annotation guidelines are also revised to better align with the UD framework. Using this enhanced treebank, we fine-tune three Korean language models—Stanza, spaCy, and Trankit—and evaluate their performance on in-domain and out-of-domain L2-Korean datasets. The results show that fine-tuning significantly improves their performance across various metrics, thus highlighting the importance of using well-tailored L2 datasets for fine-tuning first-language-based, general-purpose language models for the morphosyntactic analysis of L2 data.
   </div>
+    <button onclick="toggleAbstract('video1')">Watch presentation video</button>
+  <div id="video1" class="video" style="display:none;">
+     <iframe 
+    src="https://drive.google.com/file/d/1o1BO4B8dmOESO9sxLLqcLzIxoPubXPOq/preview" 
+    width="640" 
+    height="480" 
+    allow="autoplay"
+></iframe>
+  </div>
+  
+  
 
   *  <font size="4"> <b> Recommendations for Overcoming Linguistic Barriers in Healthcare: Challenges and Innovations in NLP for Haitian Creole </b> </font>  
   <span style="color:gray"> Mompelat, Ludovic </span>  
