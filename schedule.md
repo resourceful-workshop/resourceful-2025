@@ -18,7 +18,7 @@ The workshop will take place on March 2nd, 2025.
 
 **9:00 - 9:10** Welcome
 
-**9:10 - 9:40** <b> Keynote I, Beáta Megyesi: Unlocking Hidden Histories: AI and Expert Collaboration in Deciphering Rare Scripts </b> (session chair: Simon Dobnik)
+**9:10 - 9:40** <b> Keynote I, Beáta Megyesi: Unlocking Hidden Histories: AI and Expert Collaboration in Deciphering Rare Scripts </b> (session chair: Simon Dobnik), slides are available [here](./slides/megyesi-keynote.pdf).
 
 **9:40 - 10:00** Oral talks I (session chair: Simon Dobnik)
 
