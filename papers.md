@@ -179,8 +179,8 @@ title: RESOURCEFUL-2025
   <div id="abstract24" class="abstract" style="display:none;">
     Linguistic datasets are essential across fields: computational linguists use them for NLP development, theoretical linguists for statistical arguments supporting hypotheses about language, and documentary linguists for preserving examples and aiding grammatical descriptions. Transforming raw data (e.g., recordings or dictionaries) into structured forms (e.g., tables) requires non-trivial decisions within processing pipelines. This paper highlights the importance of these processes in understanding linguistic systems. Our contributions include: (1) an interactive dashboard for four central Australian languages with custom filters, and (2) demonstrating how data processing decisions influence measured outcomes.
   </div>
-  <button onclick="toggleDisplay('video2')">Watch presentation video</button>
-  <div id="video2" class="video" style="display:none;">
+  <button onclick="toggleDisplay('video3')">Watch presentation video</button>
+  <div id="video3" class="video" style="display:none;">
   <iframe 
     src="https://drive.google.com/file/d/1tBPM1z4sEL1imTXOQ_gFtlnCaej5iBCN/preview"
     width="640"
