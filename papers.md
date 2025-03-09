@@ -16,6 +16,7 @@ title: RESOURCEFUL-2025
   [SLIDES](./slides/hernandez-mena-slides.pdf)
 
   <span style="color:gray"> Hernández Mena, Carlos Daniel and Scalvini, Barbara and Lág, Dávid í </span>  
+  
   <button onclick="toggleAbstract('abstract1')">Show Abstract</button>
   <div id="abstract1" class="abstract" style="display:none;">Mozilla Common Voice is a crowdsourced project that aims to create a public, multilingual dataset of voice recordings for training speech recognition models. In Common Voice, anyone can contribute by donating or validating recordings in various languages. However, despite the availability of many recordings in certain languages, a significant percentage remains unvalidated by users. This is the case for Spanish, where in version 17.0 of Common Voice, 75% of the 2,220 hours of recordings are unvalidated. In this work, we used the Whisper recognizer to automatically validate approximately 784 hours of recordings which are more than the 562 hours validated by users. To verify the accuracy of the validation, we developed a speech recognition model based on a version of NVIDIA-NeMo’s Parakeet, which does not have an official Spanish version. Our final model achieved a WER of less than 4% on the test and validation splits of Common Voice 17.0. Both the model and the speech corpus are publicly available on Hugging Face.</div>
 
