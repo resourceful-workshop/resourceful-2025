@@ -145,7 +145,7 @@ title: RESOURCEFUL-2025
   </div>
 
   *  <font size="4"> <b> Second language Korean Universal Dependency treebank v1.2: Focus on Data Augmentation and Annotation Scheme Refinement </b> </font>
-  [poster](./slides/sung-shin-poster.pdf)  
+  [slides](./slides/sung-shin-poster.pdf)  
   <span style="color:gray"> Sung, Hakyung and Shin, Gyu-Ho </span>  
   <button onclick="toggleAbstract('abstract21')">Show Abstract</button>  
   <div id="abstract21" class="abstract" style="display:none;">
@@ -186,7 +186,7 @@ title: RESOURCEFUL-2025
    </div>
 
   *  <font size="4"> <b> Beyond a Means to an End: A Case Study in Building Phonotactic Corpora for Central Australian Languages </b> </font>
-  [poster](./slides/muradoglu-poster.pdf)  
+  [slides](./slides/muradoglu-poster.pdf)  
   <span style="color:gray"> Muradoglu, Saliha and Gray, James and Simpson, Jane Helen and Proctor, Michael and Harvey, Mark </span>  
   <button onclick="toggleAbstract('abstract24')">Show Abstract</button>  
   <div id="abstract24" class="abstract" style="display:none;">
