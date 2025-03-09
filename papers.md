@@ -162,18 +162,15 @@ muradoglu
   <button onclick="toggleAbstract('abstract21')">Show Abstract</button>
   <div id="abstract21" class="abstract" style="display:none;">
     We expand the second language (L2) Korean Universal Dependencies (UD) treebank with 5,454 manually annotated sentences. The annotation guidelines are also revised to better align with the UD framework. Using this enhanced treebank, we fine-tune three Korean language models—Stanza, spaCy, and Trankit—and evaluate their performance on in-domain and out-of-domain L2-Korean datasets. The results show that fine-tuning significantly improves their performance across various metrics, thus highlighting the importance of using well-tailored L2 datasets for fine-tuning first-language-based, general-purpose language models for the morphosyntactic analysis of L2 data.
-<details>
-  <summary>Watch presentation video</summary>
+ <button onclick="toggleDisplay('video1')">Watch presentation video</button>
+<div id="video1" class="video">
   <iframe 
-      src="https://drive.google.com/file/d/1o1BO4B8dmOESO9sxLLqcLzIxoPubXPOq/preview"
-      width="640"
-      height="480"
-      allow="autoplay"
+    src="https://drive.google.com/file/d/1o1BO4B8dmOESO9sxLLqcLzIxoPubXPOq/preview"
+    width="640"
+    height="480"
+    allow="autoplay"
   ></iframe>
-</details>
-
-  
-  
+</div>
 
   *  <font size="4"> <b> Recommendations for Overcoming Linguistic Barriers in Healthcare: Challenges and Innovations in NLP for Haitian Creole </b> </font>  
   <span style="color:gray"> Mompelat, Ludovic </span>  
@@ -222,4 +219,15 @@ function toggleAbstract(id) {
         abstract.style.display = "none";
     }
 }
+</script>
+
+<script>
+  function toggleDisplay(id) {
+    var el = document.getElementById(id);
+    if (el.style.display === "none" || el.style.display === "") {
+      el.style.display = "block";
+    } else {
+      el.style.display = "none";
+    }
+  }
 </script>
