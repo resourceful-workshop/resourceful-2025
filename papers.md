@@ -12,6 +12,13 @@ title: RESOURCEFUL-2025
 
 ## Talks
 
+<iframe 
+    src="https://drive.google.com/file/d/1GM7zDRkP1ZUp7x98RCjRPRwL8RPvkX6L/preview" 
+    width="640" 
+    height="480" 
+    allow="autoplay"
+></iframe>
+
   *  <font size="4"> <b> Automatic Validation of the Non-Validated Spanish Speech Data of Common Voice 17.0 </b> </font>  
   <span style="color:gray"> Hernández Mena, Carlos Daniel and Scalvini, Barbara and Lág, Dávid í </span>  
   <button onclick="toggleAbstract('abstract1')">Show Abstract</button>
